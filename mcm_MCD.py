@@ -71,20 +71,6 @@ def mcdym(a):
         msm='Error'
     return msm
 
-def prueba():
-    listas = [[2, 3, 3, 4, 5], [3, 3, 4, 4, 5, 6], [1, 2, 3, 3, 4, 4, 5]]
-
-    # Inicializar una lista para almacenar los elementos comunes y sus cantidades
-    resultado = []
-
-    # Contar la cantidad de veces que se repiten los elementos en todas las listas
-    for elemento in set(listas[0]):
-        cantidad_comun = min(lista.count(elemento) for lista in listas)
-        resultado.extend([elemento] * cantidad_comun)
-
-    # Imprimir el resultado
-    print(resultado)
-
 if __name__ == '__main__':
     while True:
         try:
@@ -103,8 +89,6 @@ if __name__ == '__main__':
                 case 4:
                     print("Vemos!!!\nWii\nWii\nWii\nWii")
                     quit()
-                case 5:
-                    prueba()
                 case _:
                     print("Seleccion inválida. Inténtalo nuevamente.")
                     continue
