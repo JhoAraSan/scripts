@@ -70,25 +70,13 @@ def mcdym(a):
     else:
         msm='Error'
     return msm
-
-def prueba():
-    listas = [[2, 3, 3, 4, 5], [3, 3, 4, 4, 5, 6], [1, 2, 3, 3, 4, 4, 5]]
-
-    # Inicializar una lista para almacenar los elementos comunes y sus cantidades
-    resultado = []
-
-    # Contar la cantidad de veces que se repiten los elementos en todas las listas
-    for elemento in set(listas[0]):
-        cantidad_comun = min(lista.count(elemento) for lista in listas)
-        resultado.extend([elemento] * cantidad_comun)
-
-    # Imprimir el resultado
-    print(resultado)
-
+# \033[32m
+# con la linea anterior es que se cambian las letras de color! 
+# el numero del color es entre [ y m osea el 32
 if __name__ == '__main__':
     while True:
         try:
-            entrada = int(input("Que desea hacer?: \n1) Numeros primos hasta n \n2) Factores de n \n3) mcm y mcd \n4) Salir \nElija: "))
+            entrada = int(input("\033[31mQue desea hacer?: \033[34m\n1) Numeros primos hasta n \n2) Factores de n \n3) mcm y mcd \n4) Salir \033[32m\nElija: "))
             match entrada:
                 case 1: 
                     a=int(input("Escriba el numero: "))
@@ -97,14 +85,12 @@ if __name__ == '__main__':
                     a=int(input("Escriba el numero: "))
                     print(factorizar(a))
                 case 3:
-                    a=input("Escriba los numeros separados por ',': ")
+                    a=input("Escriba los numeros separados por \033[32m','\033[32m: ")
                     nums=a.split(',')
                     print(mcdym(nums))
                 case 4:
                     print("Vemos!!!\nWii\nWii\nWii\nWii")
                     quit()
-                case 5:
-                    prueba()
                 case _:
                     print("Seleccion inválida. Inténtalo nuevamente.")
                     continue
