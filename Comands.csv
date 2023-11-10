@@ -44,3 +44,7 @@ python -m virtualenv <name-env>; crear entornos con virtualenv; python -m virtua
 source <name-env>/bin/activate; activar entorno virtual en linux; source mientorno/bin/activate
 pip install -r <file.txt>;Instalar librerias desde texto;pip install -r requirements.txt
 pip freeze > .\<file.txt>;Guardar en un TXT las librerias del entorno;pip freeze > .\requirements.txt
+
+pip install fastapi;installar fast appi
+pip install "uvicorn[standard]"; instalar servidor de pruebas
+uvicorn main:miapp --reload; levantar el servidor
