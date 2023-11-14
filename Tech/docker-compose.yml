@@ -1,0 +1,17 @@
+version: '3'
+services:
+  python:
+    build: .
+    ports:
+      - "8000:8000"
+    links:
+      - mongoo
+    volumes:
+      - ./:/tech
+  mongoo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=user
+      - MONGO_INITDB_ROOT_PASSWORD=password
