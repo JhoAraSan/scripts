@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Word Encryption Application is a Python-based tool designed to find the longest word in a given list, encrypt it using the Caesar cipher method, and, if the longest word is a URL, extract its domain for further encryption. This application is built using FASTAPI, establishes a connection to MongoDB for data storage, and is containerized using Docker.
+The Word Encryption Application is a Python-based tool designed to find the longest word in a given list, encrypt it using the Caesar method, and, if the longest word is a URL, extract its domain for further encryption. This application is built using FASTAPI, establishes a connection to MongoDB for data storage, and is containerized using Docker.
 
 ## Application Components
 
@@ -10,7 +10,7 @@ The Word Encryption Application is a Python-based tool designed to find the long
 
 The initial step involves scanning the provided list to identify the longest word. The algorithm efficiently locates the word with the maximum length, considering both alphabetical and numerical characters.
 
-### 2. Caesar Cipher Encryption
+### 2. Caesar Encryption
 
 Once the longest word is identified, the application employs the Caesar cipher method to encrypt it. This involves shifting each letter in the word by a predetermined number of positions in the alphabet. The encrypted word is then ready for further processing.
 
@@ -33,7 +33,3 @@ The application is implemented using the FASTAPI framework, known for its high-p
 ## Conclusion
 
 In summary, the Word Encryption Application combines functionality with efficiency. By integrating components like FASTAPI, MongoDB, and Docker, it offers a comprehensive solution for finding, encrypting, and storing the longest word, with additional handling for URLs. This document provides an overview of the application's key features and its underlying architecture.
-
----
-
-Este es solo un punto de partida. Si tienes alguna preferencia específica o detalles adicionales que te gustaría incluir, házmelo saber, ¡y ajustaremos la explicación según tus necesidades!
