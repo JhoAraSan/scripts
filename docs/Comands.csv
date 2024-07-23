@@ -27,7 +27,7 @@ git config --global core.eol crlf,Configurar el tipo de salto de línea predeter
 git merge <rama>,Realizar un merge de la rama especificada con la rama actual.,git merge feature
 
 conda create -n <name> python=<version>, Crear el entorno de Conda en la version py que desea, conda create -n math python=3.11 
-conda activate <name>,activar el entorno deseado en conda, conda activate math
+conda activate <name> ,activar el entorno deseado en conda, conda activate math
 conda deactivate,salir del entorno virtual, conda deactivate
 conda env list,Listar los entornos que tenemos
 conda remove --name <ENV_NAME> --all,eliminar un entorno deseado, 
@@ -36,7 +36,7 @@ pip list, obtener las librerias disponibles en el entorno, conda deactivate
 python -m virtualenv <name-env>, crear entornos con virtualenv, python -m virtualenv mientorno
 .\<name-env>\Scripts\activate, activar entorno virtual en windows, .\mientorno\Scripts\activate
 source <name-env>/bin/activate, activar entorno virtual en linux, source mientorno/bin/activate
-pip install -r <file.txt>,Instalar librerias desde texto,pip install -r requirements.txt
+pip install -r <file.txt> ,Instalar librerias desde texto,pip install -r requirements.txt
 pip freeze > .\<file.txt>,Guardar en un TXT las librerias del entorno,pip freeze > .\requirements.txt
 
 pip install fastapi,installar fast appi
