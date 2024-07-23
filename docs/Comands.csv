@@ -13,7 +13,6 @@ git status;Mostrar el estado actual del repositorio Git.;git status
 git add <archivo>;Agregar el archivo especificado al área de preparación.;git add myfile.txt
 git add .;Agregar todos los archivos modificados al área de preparación.;git add .
 git add -u;Agregar los cambios de archivos modificados o eliminados al área de preparación.;git add -u
-git reset <archivo>;Quitar el archivo especificado del área de preparación.;git reset myfile.txt
 git log;Mostrar el historial de commits del repositorio.;git log -5 --pretty=format:"%h - %an, %ar : %s"
 git rm <archivo>;Eliminar el archivo especificado del repositorio.;git rm myfile.txt
 git mv <nombreArchivo> <nombreCarpeta>;Mover o cambiar el nombre de un archivo en el repositorio.;git mv myfile.txt myfolder/
