@@ -29,11 +29,11 @@ git merge <rama>,Realizar un merge de la rama especificada con la rama actual.,g
 conda create -n <name> python=<version>, Crear el entorno de Conda en la version py que desea, conda create -n math python=3.11 
 conda activate <name> ,activar el entorno deseado en conda, conda activate math
 conda deactivate,salir del entorno virtual, conda deactivate
-conda env list,Listar los entornos que tenemos
+conda env list,Listar los entornos que tenemos, 
 conda remove --name <ENV_NAME> --all,eliminar un entorno deseado, 
 
-pip install fastapi,installar fast appi
-pip install "uvicorn[standard]", instalar servidor de pruebas
+pip install fastapi,installar fast appi,
+pip install "uvicorn[standard]", instalar servidor de pruebas,
 uvicorn <archive>:<name function app> --reload, levantar el servidor, uvicorn main:miapp --reload
 
 value = <value_if_true> if <expression> else <value_if_false>,If else single line, num += 3 if len(long[0]) > 25 else len(long[0])
