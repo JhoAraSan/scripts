@@ -35,8 +35,7 @@ conda remove --name <ENV_NAME> --all,eliminar un entorno deseado,
 pip list, obtener las librerias disponibles en el entorno, conda deactivate
 python -m virtualenv <name-env>, crear entornos con virtualenv, python -m virtualenv mientorno
 .\<name-env>\Scripts\activate, activar entorno virtual en windows, .\mientorno\Scripts\activate
-source <name-env>/bin/activate, activar entorno virtual en linux, source mientorno/bin/activate
-pip install -r <file.txt> ,Instalar librerias desde texto,pip install -r requirements.txt
+
 
 pip install fastapi,installar fast appi
 pip install "uvicorn[standard]", instalar servidor de pruebas
