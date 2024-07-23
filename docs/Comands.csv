@@ -32,11 +32,6 @@ conda deactivate,salir del entorno virtual, conda deactivate
 conda env list,Listar los entornos que tenemos
 conda remove --name <ENV_NAME> --all,eliminar un entorno deseado, 
 
-pip list, obtener las librerias disponibles en el entorno, conda deactivate
-python -m virtualenv <name-env>, crear entornos con virtualenv, python -m virtualenv mientorno
-.\<name-env>\Scripts\activate, activar entorno virtual en windows, .\mientorno\Scripts\activate
-
-
 pip install fastapi,installar fast appi
 pip install "uvicorn[standard]", instalar servidor de pruebas
 uvicorn <archive>:<name function app> --reload, levantar el servidor, uvicorn main:miapp --reload
