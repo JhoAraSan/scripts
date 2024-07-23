@@ -22,7 +22,6 @@ git remote update origin --prune;Actualizar la información del repositorio remo
 git branch -a;Mostrar todas las ramas locales y remotas del repositorio.;git branch -a
 git init -b <main/master> <nombreRepositorio>;Inicializar un nuevo repositorio Git con la rama principal especificada y el nombre del repositorio.;git init -b main myrepo
 git push origin <nombre de la rama>;Enviar los cambios locales al repositorio remoto en la rama especificada.;git push origin new-branch
-git log;Mostrar el historial de commits del repositorio.;git log -5 --pretty=format:"%h - %an, %ar : %s"
 git config --global init.defaultBranch <main>;Configurar la rama principal predeterminada para nuevos repositorios.;git config --global init.defaultBranch main
 git config --global core.eol crlf;Configurar el tipo de salto de línea predeterminado como CRLF (retorno de carro + salto de línea).;git config --global core.eol crlf
 git merge <rama>;Realizar un merge de la rama especificada con la rama actual.;git merge feature
