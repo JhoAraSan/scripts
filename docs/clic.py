@@ -81,7 +81,7 @@ def clics_inf():
     Perform clicks at multiple points for a specified number of times.
     """
     puntos = int(input("\033[35mCuantos puntos? \033[39m"))
-    t = input("\033[32mPor defecto (d) o tiempo en segundos (numero)?\033[39m ")
+    t = input("\033[32m tiempo en segundos?\033[39m ")
     posiciones =[]
     for x in range(puntos):
         print("\033[36mPunto ", str(x), " para el mouse\033[35m")
@@ -101,10 +101,10 @@ def clics_inf():
                     time.sleep(int(t))
                 except ValueError:
                     time.sleep(tiempo)    
-            if t >= 2:time.sleep(3) 
+            time.sleep(3)
         hora_actual = datetime.datetime.now().replace(microsecond=0)
-        print(progressbar(x, 30), hora_actual - hora_ini, end='\r')
-    MessageBox.showwarning("Finish", f'empezo a las:{hora_ini}')
+        print(progressbar(x, 30), end='\r')
+    MessageBox.showwarning("Finish", f'empezo a las:{hora_ini}, para un total de {hora_actual - hora_ini} tiempo')
 
 def clics_copiar():
     """
