@@ -1,7 +1,7 @@
 # version 3 mas rapido
 
-import pyautogui
-import pyperclip as clipboard
+import pyautogui #pip install PyAutoGUI --> this install pyperclip and pymsgbox
+import pyperclip as clipboard #pip install pyperclip
 import time
 import datetime
 import os
@@ -97,12 +97,11 @@ def clics_inf():
                 pyautogui.moveTo(xp, yp, 1)
                 pyautogui.click()
                 tiempo = (60 - puntos) // puntos
-                match t:
-                    case "d":
-                        time.sleep(tiempo)
-                    case _:
-                        time.sleep(int(t))
-            if t == 1:time.sleep(3) 
+                try:
+                    time.sleep(int(t))
+                except ValueError:
+                    time.sleep(tiempo)    
+            if t >= 2:time.sleep(3) 
         hora_actual = datetime.datetime.now().replace(microsecond=0)
         print(progressbar(x, 30), hora_actual - hora_ini, end='\r')
     MessageBox.showwarning("Finish", f'empezo a las:{hora_ini}')
