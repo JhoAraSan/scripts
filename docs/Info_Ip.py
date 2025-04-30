@@ -1,5 +1,5 @@
 import os
-import requests
+import requests #pip install requests
 import json
 
 def ips(API_KEY):
