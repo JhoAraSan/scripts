@@ -1,6 +1,7 @@
 import os
 import requests #pip install requests
 import json
+from dotenv import load_dotenv #pip install python-dotenv
 
 def ips(API_KEY):
     print("Ingrese las direcciones IP que desea verificar. Presione Enter para finalizar.")
@@ -38,6 +39,7 @@ def network(API_KEY):
 
 if __name__ == '__main__':
 
+    load_dotenv(dotenv_path="list.env")
     API_KEY = os.getenv("API_KEY_IPDB")
 
     if not API_KEY:

@@ -187,6 +187,49 @@ def progressbar(part, total):
     bar = f"[{'#'* completed}{'-'* miss}]{frac:.1%}"
     return bar
 
+def emergencia():
+    """
+    Clean news by performing clicks and key presses.
+    """
+    puntos = int(input("\033[35mCuantos correos? \033[39m"))
+    t = 1
+    print("\033[35mPunto para primer correo")
+    input()
+    px, py = pyautogui.position()
+    print("Punto para la seleccion de descarga")
+    input()
+    px2, py2 = pyautogui.position()
+    print("Punto para la seleccion de descarga")
+    input()
+    px3, py3 = pyautogui.position()
+    
+
+    while input("escriba 'ok' para continuar ") != 'ok':
+        print("No se ha escrito 'ok', por lo que no se continuara")
+        continue
+    print("Empezando")
+    x = 0
+    while x <= puntos:
+
+        if x == 0:
+            pyautogui.moveTo(px, py, t)
+            pyautogui.click()
+        else:
+            pyautogui.press('down', interval=0.1)
+        
+        pyautogui.moveTo(px2, py2, t)
+        pyautogui.click()
+        time.sleep(1)
+        pyautogui.press('enter')
+        time.sleep(2)
+        pyautogui.moveTo(px3, py3, t)
+        pyautogui.click()
+        pyautogui.hotkey('shift', 'tab')
+        time.sleep(1)
+        x += 1
+        
+        print(progressbar(x, puntos), end='\r')
+
 if __name__ == '__main__':
     while True:
         try:
@@ -203,6 +246,7 @@ if __name__ == '__main__':
                     print("\n\033[32m\033[45mNospi!\033[39m\033[49m")
                     os.system('cmd exit()')
                     break
+                case 7:emergencia()
                 case _:
                     print("Seleccion inválida. Inténtalo nuevamente.")
                     continue

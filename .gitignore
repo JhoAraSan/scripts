@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.env
 
 # Archivos de configuración del sistema operativo
 .DS_Store
