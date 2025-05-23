@@ -5,6 +5,7 @@ import csv
 import xml.etree.ElementTree as ET
 from tkinter import Tk
 from tkinter.filedialog import askdirectory
+from Info_Ip import ip_isp
 
 def extract_failed_ips(directory):
     failed_ips = []
@@ -33,12 +34,19 @@ def extract_failed_ips(directory):
     return failed_ips, cont
 
 def export_to_csv(failures, output_file):
+    ips = set()
+    datos=[]
     with open(output_file, mode='w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['IP', 'DKIM Result', 'SPF Result'])
+        writer.writerow(['IP', 'DKIM Result', 'SPF Result', 'ISP'])
         # escribir las ips fallidas sin repetir
         for ip, dkim, spf in failures:
-            writer.writerow([ip, dkim, spf])
+            if ip not in ips:
+                ips.add(ip)
+                datos.append((ip, dkim, spf))
+        for ip, dkim, spf in datos:
+            isp = ip_isp(ip)
+            writer.writerow([ip, dkim, spf, isp])
 
 # Selección de carpeta con GUI
 root = Tk()
