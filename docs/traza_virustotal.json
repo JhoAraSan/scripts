@@ -1,0 +1,1708 @@
+{
+    "urls": {
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list": {
+            "data": {
+                "id": "u-864a42e7dbae68e8aad2a5cfcc3d20727f93ad5312fa884c4fb1a00c39b5c286-1753900102",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-864a42e7dbae68e8aad2a5cfcc3d20727f93ad5312fa884c4fb1a00c39b5c286-1753900102",
+                    "item": "https://www.virustotal.com/api/v3/urls/864a42e7dbae68e8aad2a5cfcc3d20727f93ad5312fa884c4fb1a00c39b5c286"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "date": 1753900102
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "864a42e7dbae68e8aad2a5cfcc3d20727f93ad5312fa884c4fb1a00c39b5c286",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list"
+                }
+            }
+        },
+        "https://imgssl.constantcontact.com/letters/images/sys/S.gif": {
+            "data": {
+                "id": "u-50fee7e07cf1f2847accec4244352613e12e4db0cfd76df3a236940466008999-1753900102",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-50fee7e07cf1f2847accec4244352613e12e4db0cfd76df3a236940466008999-1753900102",
+                    "item": "https://www.virustotal.com/api/v3/urls/50fee7e07cf1f2847accec4244352613e12e4db0cfd76df3a236940466008999"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued",
+                    "date": 1753900102
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "50fee7e07cf1f2847accec4244352613e12e4db0cfd76df3a236940466008999",
+                    "url": "https://imgssl.constantcontact.com/letters/images/sys/S.gif"
+                }
+            }
+        },
+        "https://aka.ms/LearnAboutSenderIdentification": {
+            "data": {
+                "id": "u-a796b38365910aa3443c68fa88e9f1e91afc0ac9d9478dd631b026555505d9ab-1753899734",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-a796b38365910aa3443c68fa88e9f1e91afc0ac9d9478dd631b026555505d9ab-1753899734",
+                    "item": "https://www.virustotal.com/api/v3/urls/a796b38365910aa3443c68fa88e9f1e91afc0ac9d9478dd631b026555505d9ab"
+                },
+                "attributes": {
+                    "status": "completed",
+                    "results": {
+                        "Artists Against 419": {
+                            "method": "blacklist",
+                            "engine_name": "Artists Against 419",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Acronis": {
+                            "method": "blacklist",
+                            "engine_name": "Acronis",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Abusix": {
+                            "method": "blacklist",
+                            "engine_name": "Abusix",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ADMINUSLabs": {
+                            "method": "blacklist",
+                            "engine_name": "ADMINUSLabs",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Lionic": {
+                            "method": "blacklist",
+                            "engine_name": "Lionic",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Criminal IP": {
+                            "method": "blacklist",
+                            "engine_name": "Criminal IP",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "AILabs (MONITORAPP)": {
+                            "method": "blacklist",
+                            "engine_name": "AILabs (MONITORAPP)",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "AlienVault": {
+                            "method": "blacklist",
+                            "engine_name": "AlienVault",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "alphaMountain.ai": {
+                            "method": "blacklist",
+                            "engine_name": "alphaMountain.ai",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "AlphaSOC": {
+                            "method": "blacklist",
+                            "engine_name": "AlphaSOC",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Antiy-AVL": {
+                            "method": "blacklist",
+                            "engine_name": "Antiy-AVL",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ArcSight Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "ArcSight Threat Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "AutoShun": {
+                            "method": "blacklist",
+                            "engine_name": "AutoShun",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Axur": {
+                            "method": "blacklist",
+                            "engine_name": "Axur",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "benkow.cc": {
+                            "method": "blacklist",
+                            "engine_name": "benkow.cc",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Bfore.Ai PreCrime": {
+                            "method": "blacklist",
+                            "engine_name": "Bfore.Ai PreCrime",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "BitDefender": {
+                            "method": "blacklist",
+                            "engine_name": "BitDefender",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Bkav": {
+                            "method": "blacklist",
+                            "engine_name": "Bkav",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "BlockList": {
+                            "method": "blacklist",
+                            "engine_name": "BlockList",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Blueliv": {
+                            "method": "blacklist",
+                            "engine_name": "Blueliv",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Certego": {
+                            "method": "blacklist",
+                            "engine_name": "Certego",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Chong Lua Dao": {
+                            "method": "blacklist",
+                            "engine_name": "Chong Lua Dao",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CINS Army": {
+                            "method": "blacklist",
+                            "engine_name": "CINS Army",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Snort IP sample list": {
+                            "method": "blacklist",
+                            "engine_name": "Snort IP sample list",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Cluster25": {
+                            "method": "blacklist",
+                            "engine_name": "Cluster25",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "CMC Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "CMC Threat Intelligence",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Xcitium Verdict Cloud": {
+                            "method": "blacklist",
+                            "engine_name": "Xcitium Verdict Cloud",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CRDF": {
+                            "method": "blacklist",
+                            "engine_name": "CRDF",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CSIS Security Group": {
+                            "method": "blacklist",
+                            "engine_name": "CSIS Security Group",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Cyan": {
+                            "method": "blacklist",
+                            "engine_name": "Cyan",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Cyble": {
+                            "method": "blacklist",
+                            "engine_name": "Cyble",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CyRadar": {
+                            "method": "blacklist",
+                            "engine_name": "CyRadar",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "desenmascara.me": {
+                            "method": "blacklist",
+                            "engine_name": "desenmascara.me",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "DNS8": {
+                            "method": "blacklist",
+                            "engine_name": "DNS8",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Dr.Web": {
+                            "method": "blacklist",
+                            "engine_name": "Dr.Web",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Emsisoft": {
+                            "method": "blacklist",
+                            "engine_name": "Emsisoft",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Ermes": {
+                            "method": "blacklist",
+                            "engine_name": "Ermes",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "ESET": {
+                            "method": "blacklist",
+                            "engine_name": "ESET",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ESTsecurity": {
+                            "method": "blacklist",
+                            "engine_name": "ESTsecurity",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "EmergingThreats": {
+                            "method": "blacklist",
+                            "engine_name": "EmergingThreats",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Feodo Tracker": {
+                            "method": "blacklist",
+                            "engine_name": "Feodo Tracker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Fortinet": {
+                            "method": "blacklist",
+                            "engine_name": "Fortinet",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "G-Data": {
+                            "method": "blacklist",
+                            "engine_name": "G-Data",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Google Safebrowsing": {
+                            "method": "blacklist",
+                            "engine_name": "Google Safebrowsing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "GCP Abuse Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "GCP Abuse Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "GreenSnow": {
+                            "method": "blacklist",
+                            "engine_name": "GreenSnow",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Gridinsoft": {
+                            "method": "blacklist",
+                            "engine_name": "Gridinsoft",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Heimdal Security": {
+                            "method": "blacklist",
+                            "engine_name": "Heimdal Security",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Hunt.io Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "Hunt.io Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "IPsum": {
+                            "method": "blacklist",
+                            "engine_name": "IPsum",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Juniper Networks": {
+                            "method": "blacklist",
+                            "engine_name": "Juniper Networks",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Kaspersky": {
+                            "method": "blacklist",
+                            "engine_name": "Kaspersky",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Lumu": {
+                            "method": "blacklist",
+                            "engine_name": "Lumu",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Malwared": {
+                            "method": "blacklist",
+                            "engine_name": "Malwared",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "MalwareURL": {
+                            "method": "blacklist",
+                            "engine_name": "MalwareURL",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "MalwarePatrol": {
+                            "method": "blacklist",
+                            "engine_name": "MalwarePatrol",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "malwares.com URL checker": {
+                            "method": "blacklist",
+                            "engine_name": "malwares.com URL checker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Mimecast": {
+                            "method": "blacklist",
+                            "engine_name": "Mimecast",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Netcraft": {
+                            "method": "blacklist",
+                            "engine_name": "Netcraft",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "OpenPhish": {
+                            "method": "blacklist",
+                            "engine_name": "OpenPhish",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "0xSI_f33d": {
+                            "method": "blacklist",
+                            "engine_name": "0xSI_f33d",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Phishing Database": {
+                            "method": "blacklist",
+                            "engine_name": "Phishing Database",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PhishFort": {
+                            "method": "blacklist",
+                            "engine_name": "PhishFort",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "PhishLabs": {
+                            "method": "blacklist",
+                            "engine_name": "PhishLabs",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Phishtank": {
+                            "method": "blacklist",
+                            "engine_name": "Phishtank",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PREBYTES": {
+                            "method": "blacklist",
+                            "engine_name": "PREBYTES",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PrecisionSec": {
+                            "method": "blacklist",
+                            "engine_name": "PrecisionSec",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Quick Heal": {
+                            "method": "blacklist",
+                            "engine_name": "Quick Heal",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Quttera": {
+                            "method": "blacklist",
+                            "engine_name": "Quttera",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Rising": {
+                            "method": "blacklist",
+                            "engine_name": "Rising",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SafeToOpen": {
+                            "method": "blacklist",
+                            "engine_name": "SafeToOpen",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Sangfor": {
+                            "method": "blacklist",
+                            "engine_name": "Sangfor",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Sansec eComscan": {
+                            "method": "blacklist",
+                            "engine_name": "Sansec eComscan",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Scantitan": {
+                            "method": "blacklist",
+                            "engine_name": "Scantitan",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SCUMWARE.org": {
+                            "method": "blacklist",
+                            "engine_name": "SCUMWARE.org",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Seclookup": {
+                            "method": "blacklist",
+                            "engine_name": "Seclookup",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SOCRadar": {
+                            "method": "blacklist",
+                            "engine_name": "SOCRadar",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Sophos": {
+                            "method": "blacklist",
+                            "engine_name": "Sophos",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Spam404": {
+                            "method": "blacklist",
+                            "engine_name": "Spam404",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "StopForumSpam": {
+                            "method": "blacklist",
+                            "engine_name": "StopForumSpam",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Sucuri SiteCheck": {
+                            "method": "blacklist",
+                            "engine_name": "Sucuri SiteCheck",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "securolytics": {
+                            "method": "blacklist",
+                            "engine_name": "securolytics",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Threatsourcing": {
+                            "method": "blacklist",
+                            "engine_name": "Threatsourcing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ThreatHive": {
+                            "method": "blacklist",
+                            "engine_name": "ThreatHive",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Trustwave": {
+                            "method": "blacklist",
+                            "engine_name": "Trustwave",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Underworld": {
+                            "method": "blacklist",
+                            "engine_name": "Underworld",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "URLhaus": {
+                            "method": "blacklist",
+                            "engine_name": "URLhaus",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "URLQuery": {
+                            "method": "blacklist",
+                            "engine_name": "URLQuery",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Viettel Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "Viettel Threat Intelligence",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "VIPRE": {
+                            "method": "blacklist",
+                            "engine_name": "VIPRE",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "ViriBack": {
+                            "method": "blacklist",
+                            "engine_name": "ViriBack",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "VX Vault": {
+                            "method": "blacklist",
+                            "engine_name": "VX Vault",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Webroot": {
+                            "method": "blacklist",
+                            "engine_name": "Webroot",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Forcepoint ThreatSeeker": {
+                            "method": "blacklist",
+                            "engine_name": "Forcepoint ThreatSeeker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Yandex Safebrowsing": {
+                            "method": "blacklist",
+                            "engine_name": "Yandex Safebrowsing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ZeroCERT": {
+                            "method": "blacklist",
+                            "engine_name": "ZeroCERT",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ZeroFox": {
+                            "method": "blacklist",
+                            "engine_name": "ZeroFox",
+                            "category": "undetected",
+                            "result": "unrated"
+                        }
+                    },
+                    "date": 1753899734,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 28,
+                        "harmless": 69,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "a796b38365910aa3443c68fa88e9f1e91afc0ac9d9478dd631b026555505d9ab",
+                    "url": "https://aka.ms/LearnAboutSenderIdentification"
+                }
+            }
+        },
+        "https://imgssl.constantcontact.com/letters/images/1101116784221/S.gif": {
+            "data": {
+                "id": "u-ceb753df339e1eba518d5da601a0679e1a10e3db550bc2434e9dda1ba5acd6d1-1753900104",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-ceb753df339e1eba518d5da601a0679e1a10e3db550bc2434e9dda1ba5acd6d1-1753900104",
+                    "item": "https://www.virustotal.com/api/v3/urls/ceb753df339e1eba518d5da601a0679e1a10e3db550bc2434e9dda1ba5acd6d1"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1753900104,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "ceb753df339e1eba518d5da601a0679e1a10e3db550bc2434e9dda1ba5acd6d1",
+                    "url": "https://imgssl.constantcontact.com/letters/images/1101116784221/S.gif"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51998266773%26text%3DPor%2520favor%2520info%2520sobre%2520curso%3A%2520Mantenimiento%2520y%2520Confiabilidad%2520de%2520Clase%2520Mundial%2520a%2520944%2520Soles%2520o%2520250%2520Dolares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Ccfbcd46d6abb4c21cdea08ddccd5474a%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891938604039775%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=%2BhrVxBTFNKQzoIiT442RnjzRuUkuVvKhJB79VuHi9Lg%3D&reserved=0": {
+            "data": {
+                "id": "u-b479316c98a8af626edcc17f45d166428523ab6e21779ee5de418262b9eb61e6-1753900104",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-b479316c98a8af626edcc17f45d166428523ab6e21779ee5de418262b9eb61e6-1753900104",
+                    "item": "https://www.virustotal.com/api/v3/urls/b479316c98a8af626edcc17f45d166428523ab6e21779ee5de418262b9eb61e6"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "date": 1753900104
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "b479316c98a8af626edcc17f45d166428523ab6e21779ee5de418262b9eb61e6",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51998266773&text=Por%20favor%20info%20sobre%20curso:%20Mantenimiento%20y%20Confiabilidad%20de%20Clase%20Mundial%20a%20944%20Soles%20o%20250%20Dolares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|cfbcd46d6abb4c21cdea08ddccd5474a|7b09041e245149d08cb179d5e3d8c1be|0|0|638891938604039775|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=+hrVxBTFNKQzoIiT442RnjzRuUkuVvKhJB79VuHi9Lg=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.smrp.org%2F&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Ccfbcd46d6abb4c21cdea08ddccd5474a%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891938604016568%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=kPglHbob5qka0GB6z0sQv19bavvnYJiEX%2BNShwSpONc%3D&reserved=0": {
+            "data": {
+                "id": "u-bfa106fca86b228589b41930c74c9b4eac68df57fbf632fca7a8b7adc7860408-1753900105",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-bfa106fca86b228589b41930c74c9b4eac68df57fbf632fca7a8b7adc7860408-1753900105",
+                    "item": "https://www.virustotal.com/api/v3/urls/bfa106fca86b228589b41930c74c9b4eac68df57fbf632fca7a8b7adc7860408"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued",
+                    "date": 1753900105
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "bfa106fca86b228589b41930c74c9b4eac68df57fbf632fca7a8b7adc7860408",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=http://www.smrp.org/&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|cfbcd46d6abb4c21cdea08ddccd5474a|7b09041e245149d08cb179d5e3d8c1be|0|0|638891938604016568|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=kPglHbob5qka0GB6z0sQv19bavvnYJiEX+NShwSpONc=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51998266773%26text%3DPor%2520favor%2520info%2520sobre%2520curso%3A%2520Mantenimiento%2520y%2520Confiabilidad%2520de%2520Clase%2520Mundial%2520a%2520944%2520Soles%2520o%2520250%2520Dolares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cb56bf05e7df3448d12ed08ddccb616a6%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891804701439650%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=GbiDfo65WNSaaDIgUmm4lL01QJIuzyx4vqQI%2B%2BwhcQA%3D&reserved=0": {
+            "data": {
+                "id": "u-f166faf094812d73b24456de31ace1433ca6fce880e0bbbb63b44637df0b8963-1753900605",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-f166faf094812d73b24456de31ace1433ca6fce880e0bbbb63b44637df0b8963-1753900605",
+                    "item": "https://www.virustotal.com/api/v3/urls/f166faf094812d73b24456de31ace1433ca6fce880e0bbbb63b44637df0b8963"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753900605,
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "f166faf094812d73b24456de31ace1433ca6fce880e0bbbb63b44637df0b8963",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51998266773&text=Por%20favor%20info%20sobre%20curso:%20Mantenimiento%20y%20Confiabilidad%20de%20Clase%20Mundial%20a%20944%20Soles%20o%20250%20Dolares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|b56bf05e7df3448d12ed08ddccb616a6|7b09041e245149d08cb179d5e3d8c1be|0|0|638891804701439650|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=GbiDfo65WNSaaDIgUmm4lL01QJIuzyx4vqQI++whcQA=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.smrp.org%2F&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cb56bf05e7df3448d12ed08ddccb616a6%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891804701418895%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=1z0BBNMB2L4xjJjEtjgDdoh8ktBP%2FrBdpY77aSSxIJ4%3D&reserved=0": {
+            "data": {
+                "id": "u-4d136ff58a7f3e816ee7f523103e15a4828166f68e973193d767aa1c672f6beb-1753900606",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-4d136ff58a7f3e816ee7f523103e15a4828166f68e973193d767aa1c672f6beb-1753900606",
+                    "item": "https://www.virustotal.com/api/v3/urls/4d136ff58a7f3e816ee7f523103e15a4828166f68e973193d767aa1c672f6beb"
+                },
+                "attributes": {
+                    "date": 1753900606,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "4d136ff58a7f3e816ee7f523103e15a4828166f68e973193d767aa1c672f6beb",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=http://www.smrp.org/&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|b56bf05e7df3448d12ed08ddccb616a6|7b09041e245149d08cb179d5e3d8c1be|0|0|638891804701418895|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=1z0BBNMB2L4xjJjEtjgDdoh8ktBP/rBdpY77aSSxIJ4=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.smrp.org%2F&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C149f1feb7e2143fc7f3008ddcd4ae62a%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892443930347492%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=XrIrJbqYY7dNfdhDV5M%2BnuUVXlAKwYmNHqrtDWZx9Oo%3D&reserved=0": {
+            "data": {
+                "id": "u-ba50ca5ce85bf9e33ed6893c79cd1f43c6f97c999c9326f57f636b56ef9f110a-1753900607",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-ba50ca5ce85bf9e33ed6893c79cd1f43c6f97c999c9326f57f636b56ef9f110a-1753900607",
+                    "item": "https://www.virustotal.com/api/v3/urls/ba50ca5ce85bf9e33ed6893c79cd1f43c6f97c999c9326f57f636b56ef9f110a"
+                },
+                "attributes": {
+                    "results": {},
+                    "date": 1753900607,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "ba50ca5ce85bf9e33ed6893c79cd1f43c6f97c999c9326f57f636b56ef9f110a",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=http://www.smrp.org/&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|149f1feb7e2143fc7f3008ddcd4ae62a|7b09041e245149d08cb179d5e3d8c1be|0|0|638892443930347492|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=XrIrJbqYY7dNfdhDV5M+nuUVXlAKwYmNHqrtDWZx9Oo=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51998266773%26text%3DPor%2520favor%2520info%2520sobre%2520curso%3A%2520Mantenimiento%2520y%2520Confiabilidad%2520de%2520Clase%2520Mundial%2520a%2520944%2520Soles%2520o%2520250%2520Dolares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C149f1feb7e2143fc7f3008ddcd4ae62a%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892443930368313%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=V6r1SRVG9Pxe7BQnK6j%2FOYUz4OkV4oiFCl4qt8CNfiA%3D&reserved=0": {
+            "data": {
+                "id": "u-615cf43dd96dbd354d921e393878ea36c58c1c27b928c54bcb0f552fb5cf3f51-1753900607",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-615cf43dd96dbd354d921e393878ea36c58c1c27b928c54bcb0f552fb5cf3f51-1753900607",
+                    "item": "https://www.virustotal.com/api/v3/urls/615cf43dd96dbd354d921e393878ea36c58c1c27b928c54bcb0f552fb5cf3f51"
+                },
+                "attributes": {
+                    "date": 1753900607,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "615cf43dd96dbd354d921e393878ea36c58c1c27b928c54bcb0f552fb5cf3f51",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51998266773&text=Por%20favor%20info%20sobre%20curso:%20Mantenimiento%20y%20Confiabilidad%20de%20Clase%20Mundial%20a%20944%20Soles%20o%20250%20Dolares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|149f1feb7e2143fc7f3008ddcd4ae62a|7b09041e245149d08cb179d5e3d8c1be|0|0|638892443930368313|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=V6r1SRVG9Pxe7BQnK6j/OYUz4OkV4oiFCl4qt8CNfiA=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D3c918d4aa9%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282419959%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OcA4QzLzqmzhB0GVxfRvZhFHncPBbiF9vNiJ8HiQkHk%3D&reserved=0": {
+            "data": {
+                "id": "u-d9331d362ece8345daae78d61618a1707d1682ed6146e76292076d0c96d12ac1-1753901122",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-d9331d362ece8345daae78d61618a1707d1682ed6146e76292076d0c96d12ac1-1753901122",
+                    "item": "https://www.virustotal.com/api/v3/urls/d9331d362ece8345daae78d61618a1707d1682ed6146e76292076d0c96d12ac1"
+                },
+                "attributes": {
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "date": 1753901122
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "d9331d362ece8345daae78d61618a1707d1682ed6146e76292076d0c96d12ac1",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=3c918d4aa9&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282419959|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=OcA4QzLzqmzhB0GVxfRvZhFHncPBbiF9vNiJ8HiQkHk=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Funsubscribe%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26t%3Db%26e%3D38ab58dec5%26c%3D8f5ec2fb39&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282487966%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=87X9kSS8wOoVMrvSg0NKjFeSW%2FuKobwBmC9p5ErJluM%3D&reserved=0": {
+            "data": {
+                "id": "u-d8de57762555a87f9eafec3b4d33c58d367571e12e8d71b1cb5a753ee7235695-1753901123",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-d8de57762555a87f9eafec3b4d33c58d367571e12e8d71b1cb5a753ee7235695-1753901123",
+                    "item": "https://www.virustotal.com/api/v3/urls/d8de57762555a87f9eafec3b4d33c58d367571e12e8d71b1cb5a753ee7235695"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued",
+                    "date": 1753901123
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "d8de57762555a87f9eafec3b4d33c58d367571e12e8d71b1cb5a753ee7235695",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/unsubscribe?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&t=b&e=38ab58dec5&c=8f5ec2fb39&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282487966|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=87X9kSS8wOoVMrvSg0NKjFeSW/uKobwBmC9p5ErJluM=&reserved=0"
+                }
+            }
+        },
+        "mailto:ventanillaunicaderadicacion@colombiacompra.gov.co": {
+            "data": {
+                "id": "u-8319aa5b9bbb8ba7e0385d1eaaf51771eaab98508ea37b8ff12813abb1cd9015-1753901124",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-8319aa5b9bbb8ba7e0385d1eaaf51771eaab98508ea37b8ff12813abb1cd9015-1753901124",
+                    "item": "https://www.virustotal.com/api/v3/urls/8319aa5b9bbb8ba7e0385d1eaaf51771eaab98508ea37b8ff12813abb1cd9015"
+                },
+                "attributes": {
+                    "date": 1753901124,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "8319aa5b9bbb8ba7e0385d1eaaf51771eaab98508ea37b8ff12813abb1cd9015",
+                    "url": "http://mailto:ventanillaunicaderadicacion@colombiacompra.gov.co/"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D8385d9cbcf%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282396118%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TXcDupB%2FMXtoiYanvp4Bf%2Bx9nk17MR%2BcO0bwpGJNFKE%3D&reserved=0": {
+            "data": {
+                "id": "u-2fbab165bcc85b26345cb9536378de3d77c82178f113e49c5cc0333e6f40e431-1753901124",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-2fbab165bcc85b26345cb9536378de3d77c82178f113e49c5cc0333e6f40e431-1753901124",
+                    "item": "https://www.virustotal.com/api/v3/urls/2fbab165bcc85b26345cb9536378de3d77c82178f113e49c5cc0333e6f40e431"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753901124,
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "2fbab165bcc85b26345cb9536378de3d77c82178f113e49c5cc0333e6f40e431",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=8385d9cbcf&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282396118|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=TXcDupB/MXtoiYanvp4Bf+x9nk17MR+cO0bwpGJNFKE=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Fabout%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26e%3D38ab58dec5%26c%3D8f5ec2fb39&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282470296%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9O1Qbhx6l4mWc8hZLbEtWga8eMYxZVX3k4r0nM10z7k%3D&reserved=0": {
+            "data": {
+                "id": "u-f54de0ab954384aee8a8026e10418356d2cc2e6c4280a63b80e48f3085c22454-1753901125",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-f54de0ab954384aee8a8026e10418356d2cc2e6c4280a63b80e48f3085c22454-1753901125",
+                    "item": "https://www.virustotal.com/api/v3/urls/f54de0ab954384aee8a8026e10418356d2cc2e6c4280a63b80e48f3085c22454"
+                },
+                "attributes": {
+                    "date": 1753901125,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "f54de0ab954384aee8a8026e10418356d2cc2e6c4280a63b80e48f3085c22454",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/about?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&e=38ab58dec5&c=8f5ec2fb39&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282470296|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=9O1Qbhx6l4mWc8hZLbEtWga8eMYxZVX3k4r0nM10z7k=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Fprofile%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26e%3D38ab58dec5%26c%3D8f5ec2fb39&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282507483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yqXRVXLwGnpxJQveANAke%2BU34LoR5uCp97nDEyWsb5Y%3D&reserved=0": {
+            "data": {
+                "id": "u-a458b2fc845b54d06a69402bd33865390bde2f44ec16b7230d861224f3762c01-1753901126",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-a458b2fc845b54d06a69402bd33865390bde2f44ec16b7230d861224f3762c01-1753901126",
+                    "item": "https://www.virustotal.com/api/v3/urls/a458b2fc845b54d06a69402bd33865390bde2f44ec16b7230d861224f3762c01"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1753901126,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "a458b2fc845b54d06a69402bd33865390bde2f44ec16b7230d861224f3762c01",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/profile?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&e=38ab58dec5&c=8f5ec2fb39&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282507483|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=yqXRVXLwGnpxJQveANAke+U34LoR5uCp97nDEyWsb5Y=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D8335a7f4f6%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282453519%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Y6OGg5BrlV4Bk6RiPo4EhvDqMxhdIzHqEmchfz22QPA%3D&reserved=0": {
+            "data": {
+                "id": "u-c991f6536f2ac5ed3589031a9355aaa3a71cf357dce868d41bb0b6be45b3aa09-1753901126",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-c991f6536f2ac5ed3589031a9355aaa3a71cf357dce868d41bb0b6be45b3aa09-1753901126",
+                    "item": "https://www.virustotal.com/api/v3/urls/c991f6536f2ac5ed3589031a9355aaa3a71cf357dce868d41bb0b6be45b3aa09"
+                },
+                "attributes": {
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753901126,
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "c991f6536f2ac5ed3589031a9355aaa3a71cf357dce868d41bb0b6be45b3aa09",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=8335a7f4f6&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282453519|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=Y6OGg5BrlV4Bk6RiPo4EhvDqMxhdIzHqEmchfz22QPA=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Da9eb1524ae%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cead49790934547842d3a08ddcde9cc9c%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893126282437103%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=77oM7X4HyFPG0wcDPIUlSPkLrXPdl7VXbn93MfmbcZE%3D&reserved=0": {
+            "data": {
+                "id": "u-5f553a74e7962ef6719a2682bc2d761f9164a6a1631b022945568b58e9321ff7-1753901127",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-5f553a74e7962ef6719a2682bc2d761f9164a6a1631b022945568b58e9321ff7-1753901127",
+                    "item": "https://www.virustotal.com/api/v3/urls/5f553a74e7962ef6719a2682bc2d761f9164a6a1631b022945568b58e9321ff7"
+                },
+                "attributes": {
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "date": 1753901127
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "5f553a74e7962ef6719a2682bc2d761f9164a6a1631b022945568b58e9321ff7",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=a9eb1524ae&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ead49790934547842d3a08ddcde9cc9c|7b09041e245149d08cb179d5e3d8c1be|0|0|638893126282437103|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=77oM7X4HyFPG0wcDPIUlSPkLrXPdl7VXbn93MfmbcZE=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51961106120%26text%3DSolicito%2520Informes%3A%2520Workshop%2520Internacional%2520FLUJO%2520DE%2520CAJA%2520y%2520TESORER%25C3%258DA%2520CON%2520Inteligencia%2520Artificial%2520(Herramientas%2520Actualizadas)%2C%2520EXCEL%2520Y%2520MACROS%2520cb&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Caf87c6cac8fa41c315ae08ddcdc24d86%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892956619357032%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C20000%7C%7C%7C&sdata=dhTiusceD5q8qm6bWqUfpoVfu8NOLjf19RSl1c49Pak%3D&reserved=0": {
+            "data": {
+                "id": "u-b3678bb1c5866f66aed8fd376606322ade8dc2eb1bc0ede8a5806d5343110a50-1753901128",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-b3678bb1c5866f66aed8fd376606322ade8dc2eb1bc0ede8a5806d5343110a50-1753901128",
+                    "item": "https://www.virustotal.com/api/v3/urls/b3678bb1c5866f66aed8fd376606322ade8dc2eb1bc0ede8a5806d5343110a50"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753901128,
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "b3678bb1c5866f66aed8fd376606322ade8dc2eb1bc0ede8a5806d5343110a50",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51961106120&text=Solicito%20Informes:%20Workshop%20Internacional%20FLUJO%20DE%20CAJA%20y%20TESORER%C3%8DA%20CON%20Inteligencia%20Artificial%20(Herramientas%20Actualizadas),%20EXCEL%20Y%20MACROS%20cb&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|af87c6cac8fa41c315ae08ddcdc24d86|7b09041e245149d08cb179d5e3d8c1be|0|0|638892956619357032|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|20000|||&sdata=dhTiusceD5q8qm6bWqUfpoVfu8NOLjf19RSl1c49Pak=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51961106120%26text%3DSolicito%2520Informes%3A%2520Workshop%2520Internacional%2520FLUJO%2520DE%2520CAJA%2520y%2520TESORER%25C3%258DA%2520CON%2520Inteligencia%2520Artificial%2520(Herramientas%2520Actualizadas)%2C%2520EXCEL%2520Y%2520MACROS%2520cb&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Caf87c6cac8fa41c315ae08ddcdc24d86%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892956619380775%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C20000%7C%7C%7C&sdata=WSqX%2BkhpOlK56%2FlKdK%2Bmpb8Rpmih7YKIkookfudbe24%3D&reserved=0": {
+            "data": {
+                "id": "u-64f992085a87c9f1eba840351656b3b21da434c5d0fa4805855c68b3c41bfc09-1753901128",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-64f992085a87c9f1eba840351656b3b21da434c5d0fa4805855c68b3c41bfc09-1753901128",
+                    "item": "https://www.virustotal.com/api/v3/urls/64f992085a87c9f1eba840351656b3b21da434c5d0fa4805855c68b3c41bfc09"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753901128,
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "64f992085a87c9f1eba840351656b3b21da434c5d0fa4805855c68b3c41bfc09",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51961106120&text=Solicito%20Informes:%20Workshop%20Internacional%20FLUJO%20DE%20CAJA%20y%20TESORER%C3%8DA%20CON%20Inteligencia%20Artificial%20(Herramientas%20Actualizadas),%20EXCEL%20Y%20MACROS%20cb&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|af87c6cac8fa41c315ae08ddcdc24d86|7b09041e245149d08cb179d5e3d8c1be|0|0|638892956619380775|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|20000|||&sdata=WSqX+khpOlK56/lKdK+mpb8Rpmih7YKIkookfudbe24=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51961106120%26text%3DSolicito%2520Informes%3A%2520Workshop%2520Internacional%2520FLUJO%2520DE%2520CAJA%2520y%2520TESORER%25C3%258DA%2520CON%2520Inteligencia%2520Artificial%2520": {
+            "data": {
+                "id": "u-b1859ce52fa0e4be2d31564f1e7f38ee13b6bc09c63600a77297b8549720b61e-1753901129",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-b1859ce52fa0e4be2d31564f1e7f38ee13b6bc09c63600a77297b8549720b61e-1753901129",
+                    "item": "https://www.virustotal.com/api/v3/urls/b1859ce52fa0e4be2d31564f1e7f38ee13b6bc09c63600a77297b8549720b61e"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753901129
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "b1859ce52fa0e4be2d31564f1e7f38ee13b6bc09c63600a77297b8549720b61e",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51961106120&text=Solicito%20Informes:%20Workshop%20Internacional%20FLUJO%20DE%20CAJA%20y%20TESORER%C3%8DA%20CON%20Inteligencia%20Artificial%20"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51998266773%26text%3DPor%2520favor%2520info%2520sobre%2520Curso%2520Gesti%25C3%25B3n%2520del%2520Mantenimiento%2520de%2520Edificios%2520e%2520Inmuebles%2520a%2520354%2520Soles%2520%25C3%25B3%2520100.30%2520D%25C3%25B3lares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Ce2899ef42ffb4f58437508ddcc0eefd1%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891086788880476%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=0enBwk375KnqFt4QFmrWz239W1cPn6qWFkx%2BlOfD3sc%3D&reserved=0": {
+            "data": {
+                "id": "u-553d721d52aa5a939a2a53873724bc8f09dbac800f2e86d5b9223e88aea15b19-1753901130",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-553d721d52aa5a939a2a53873724bc8f09dbac800f2e86d5b9223e88aea15b19-1753901130",
+                    "item": "https://www.virustotal.com/api/v3/urls/553d721d52aa5a939a2a53873724bc8f09dbac800f2e86d5b9223e88aea15b19"
+                },
+                "attributes": {
+                    "date": 1753901130,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "553d721d52aa5a939a2a53873724bc8f09dbac800f2e86d5b9223e88aea15b19",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51998266773&text=Por%20favor%20info%20sobre%20Curso%20Gesti%C3%B3n%20del%20Mantenimiento%20de%20Edificios%20e%20Inmuebles%20a%20354%20Soles%20%C3%B3%20100.30%20D%C3%B3lares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|e2899ef42ffb4f58437508ddcc0eefd1|7b09041e245149d08cb179d5e3d8c1be|0|0|638891086788880476|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=0enBwk375KnqFt4QFmrWz239W1cPn6qWFkx+lOfD3sc=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Da19d87d7de%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953482720%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=ptPyfG00tat34pMYewbbIK2t6HtCqkeBGBY14rgcMoM%3D&reserved=0": {
+            "data": {
+                "id": "u-2fa68cb52cc427f96fc2ebe3c822a32250318a47370ee54b0c07496e1d902634-1753902105",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-2fa68cb52cc427f96fc2ebe3c822a32250318a47370ee54b0c07496e1d902634-1753902105",
+                    "item": "https://www.virustotal.com/api/v3/urls/2fa68cb52cc427f96fc2ebe3c822a32250318a47370ee54b0c07496e1d902634"
+                },
+                "attributes": {
+                    "results": {},
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902105
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "2fa68cb52cc427f96fc2ebe3c822a32250318a47370ee54b0c07496e1d902634",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=a19d87d7de&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953482720|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=ptPyfG00tat34pMYewbbIK2t6HtCqkeBGBY14rgcMoM=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D3997ef320c%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953466831%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=2j5diUyXHdfLB1FoeudUnhjjuJzf8DIw9Me84McmUDQ%3D&reserved=0": {
+            "data": {
+                "id": "u-e7de968bcce8f2cfcb626457b065b0817db6b719d42382bd9ad29c01a869515e-1753902106",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-e7de968bcce8f2cfcb626457b065b0817db6b719d42382bd9ad29c01a869515e-1753902106",
+                    "item": "https://www.virustotal.com/api/v3/urls/e7de968bcce8f2cfcb626457b065b0817db6b719d42382bd9ad29c01a869515e"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1753902106,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "e7de968bcce8f2cfcb626457b065b0817db6b719d42382bd9ad29c01a869515e",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=3997ef320c&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953466831|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=2j5diUyXHdfLB1FoeudUnhjjuJzf8DIw9Me84McmUDQ=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D141a95725d%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953450919%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=29XiaWK%2FhoPF6vPeFX%2BYJlK0XdO9VVqL7XN9GMT0sls%3D&reserved=0": {
+            "data": {
+                "id": "u-d476a355f37e3a8c0f50b57c45183d61a6084687363c2211b8f281c066a7caac-1753902107",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-d476a355f37e3a8c0f50b57c45183d61a6084687363c2211b8f281c066a7caac-1753902107",
+                    "item": "https://www.virustotal.com/api/v3/urls/d476a355f37e3a8c0f50b57c45183d61a6084687363c2211b8f281c066a7caac"
+                },
+                "attributes": {
+                    "date": 1753902107,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "d476a355f37e3a8c0f50b57c45183d61a6084687363c2211b8f281c066a7caac",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=141a95725d&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953450919|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=29XiaWK/hoPF6vPeFX+YJlK0XdO9VVqL7XN9GMT0sls=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D646bf632b3%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953414825%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=JoFXqaHwJ7lpnoofsCpcqcl1gGw3vJkSFhl3iGYWG6A%3D&reserved=0": {
+            "data": {
+                "id": "u-33f1bac03ceb8306b582770908dba87a7d188db510f102a3ca01961ef8c1b8ac-1753902107",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-33f1bac03ceb8306b582770908dba87a7d188db510f102a3ca01961ef8c1b8ac-1753902107",
+                    "item": "https://www.virustotal.com/api/v3/urls/33f1bac03ceb8306b582770908dba87a7d188db510f102a3ca01961ef8c1b8ac"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1753902107,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "33f1bac03ceb8306b582770908dba87a7d188db510f102a3ca01961ef8c1b8ac",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=646bf632b3&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953414825|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=JoFXqaHwJ7lpnoofsCpcqcl1gGw3vJkSFhl3iGYWG6A=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dff71f150a3%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953498432%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=4yYbYbtcVU3fRIIW92NY3biCrzMzZn9yfFbU9Wvor4Q%3D&reserved=0": {
+            "data": {
+                "id": "u-4e4bb620002bba53d7201ca9eb6c50b6e112faadf654ef798f9964b3cd73e8d0-1753902108",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-4e4bb620002bba53d7201ca9eb6c50b6e112faadf654ef798f9964b3cd73e8d0-1753902108",
+                    "item": "https://www.virustotal.com/api/v3/urls/4e4bb620002bba53d7201ca9eb6c50b6e112faadf654ef798f9964b3cd73e8d0"
+                },
+                "attributes": {
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902108,
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "4e4bb620002bba53d7201ca9eb6c50b6e112faadf654ef798f9964b3cd73e8d0",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=ff71f150a3&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953498432|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=4yYbYbtcVU3fRIIW92NY3biCrzMzZn9yfFbU9Wvor4Q=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dbb6b6326cb%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953516428%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=Hm93ob0lmPMoPVKiVuZJaPZvqQlJUtgHIgw%2B8h8QToE%3D&reserved=0": {
+            "data": {
+                "id": "u-c8e648d3eb03d058e32dc279cb7fffade1d7561d245bdece7e49eebcba82e12a-1753902109",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-c8e648d3eb03d058e32dc279cb7fffade1d7561d245bdece7e49eebcba82e12a-1753902109",
+                    "item": "https://www.virustotal.com/api/v3/urls/c8e648d3eb03d058e32dc279cb7fffade1d7561d245bdece7e49eebcba82e12a"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902109,
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "c8e648d3eb03d058e32dc279cb7fffade1d7561d245bdece7e49eebcba82e12a",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=bb6b6326cb&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953516428|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=Hm93ob0lmPMoPVKiVuZJaPZvqQlJUtgHIgw+8h8QToE=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Fabout%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26e%3D38ab58dec5%26c%3Daf5062652e&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953532476%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=UJrUIDthfc3aXdbIUAFTH9lFKxWJdt80%2FaIJ5egtCtI%3D&reserved=0": {
+            "data": {
+                "id": "u-0391487458249864a61abd033718eb6ea1709739dbf352f2492294a37d2f71a7-1753902109",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-0391487458249864a61abd033718eb6ea1709739dbf352f2492294a37d2f71a7-1753902109",
+                    "item": "https://www.virustotal.com/api/v3/urls/0391487458249864a61abd033718eb6ea1709739dbf352f2492294a37d2f71a7"
+                },
+                "attributes": {
+                    "results": {},
+                    "status": "queued",
+                    "date": 1753902109,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "0391487458249864a61abd033718eb6ea1709739dbf352f2492294a37d2f71a7",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/about?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&e=38ab58dec5&c=af5062652e&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953532476|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=UJrUIDthfc3aXdbIUAFTH9lFKxWJdt80/aIJ5egtCtI=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Ftrack%2Fclick%3Fu%3Db35be2724961ed14649ea0bfe%26id%3D9f33c87d6c%26e%3D38ab58dec5&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953435022%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=P81unhuT1k6YsNjlfybGMQz87zKSaT9r7GvUyYQ2Im4%3D&reserved=0": {
+            "data": {
+                "id": "u-9619c5cf0b0daf31b141b2fee6bf078bc3eaa97121f19976f5510958d7523813-1753902110",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-9619c5cf0b0daf31b141b2fee6bf078bc3eaa97121f19976f5510958d7523813-1753902110",
+                    "item": "https://www.virustotal.com/api/v3/urls/9619c5cf0b0daf31b141b2fee6bf078bc3eaa97121f19976f5510958d7523813"
+                },
+                "attributes": {
+                    "results": {},
+                    "date": 1753902110,
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "9619c5cf0b0daf31b141b2fee6bf078bc3eaa97121f19976f5510958d7523813",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/track/click?u=b35be2724961ed14649ea0bfe&id=9f33c87d6c&e=38ab58dec5&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953435022|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=P81unhuT1k6YsNjlfybGMQz87zKSaT9r7GvUyYQ2Im4=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Funsubscribe%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26t%3Db%26e%3D38ab58dec5%26c%3Daf5062652e&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953548382%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=f3yHloiOT%2Fg4snmBTkYCRpPKaDTETbZcqoJe53yUbno%3D&reserved=0": {
+            "data": {
+                "id": "u-02a4c8297aa059343a49dd5ba99c5bb3196cdb5b6e2f9957190a0c0d23323699-1753902110",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-02a4c8297aa059343a49dd5ba99c5bb3196cdb5b6e2f9957190a0c0d23323699-1753902110",
+                    "item": "https://www.virustotal.com/api/v3/urls/02a4c8297aa059343a49dd5ba99c5bb3196cdb5b6e2f9957190a0c0d23323699"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902110,
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "02a4c8297aa059343a49dd5ba99c5bb3196cdb5b6e2f9957190a0c0d23323699",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/unsubscribe?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&t=b&e=38ab58dec5&c=af5062652e&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953548382|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=f3yHloiOT/g4snmBTkYCRpPKaDTETbZcqoJe53yUbno=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconarh07.us5.list-manage.com%2Fprofile%3Fu%3Db35be2724961ed14649ea0bfe%26id%3Dfcb906d5f0%26e%3D38ab58dec5%26c%3Daf5062652e&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C203441c5a4f74804365808ddcc8c0813%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638891624953564246%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=EUm3Ds4WhT4hPieX0zkvz%2B5gA4OxOdS78qHX4iRcphI%3D&reserved=0": {
+            "data": {
+                "id": "u-d45ad101908ffec258315c7a9c634a7bdd7d477880d2e66f6903f919628e9359-1753902111",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-d45ad101908ffec258315c7a9c634a7bdd7d477880d2e66f6903f919628e9359-1753902111",
+                    "item": "https://www.virustotal.com/api/v3/urls/d45ad101908ffec258315c7a9c634a7bdd7d477880d2e66f6903f919628e9359"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1753902111,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "d45ad101908ffec258315c7a9c634a7bdd7d477880d2e66f6903f919628e9359",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://conarh07.us5.list-manage.com/profile?u=b35be2724961ed14649ea0bfe&id=fcb906d5f0&e=38ab58dec5&c=af5062652e&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|203441c5a4f74804365808ddcc8c0813|7b09041e245149d08cb179d5e3d8c1be|0|0|638891624953564246|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|60000|||&sdata=EUm3Ds4WhT4hPieX0zkvz+5gA4OxOdS78qHX4iRcphI=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51936631677%26text%3DSolicito%2520PDF%2520Informativo%2520sobre%2520el%2520Entrenamiento%2520Internacional%2520": {
+            "data": {
+                "id": "u-dc5713fee18a167dc5bc1f04ba9c2474d2b61d65756185185807f2bc64dab953-1753902113",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-dc5713fee18a167dc5bc1f04ba9c2474d2b61d65756185185807f2bc64dab953-1753902113",
+                    "item": "https://www.virustotal.com/api/v3/urls/dc5713fee18a167dc5bc1f04ba9c2474d2b61d65756185185807f2bc64dab953"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902113
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "dc5713fee18a167dc5bc1f04ba9c2474d2b61d65756185185807f2bc64dab953",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51936631677&text=Solicito%20PDF%20Informativo%20sobre%20el%20Entrenamiento%20Internacional%20"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51936631677%26text%3DSolicito%2520PDF%2520Informativo%2520sobre%2520el%2520Entrenamiento%2520Internacional%2520*LIDERAZGO%2520CON%2520INTELIGENCIA%2520EMOCIONAL%2520ca*&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cb8011d868fbc453b563e08ddce2e80e2%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893421379292448%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=Ehs9cxdJW4%2FB8xZMaabEvSO5TJaNseH%2BIbn16D1cZns%3D&reserved=0": {
+            "data": {
+                "id": "u-998da493b714331f7655fa03f0e7ec9150953fb82c5b1ba9ae222ef2efe2a95b-1753902114",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-998da493b714331f7655fa03f0e7ec9150953fb82c5b1ba9ae222ef2efe2a95b-1753902114",
+                    "item": "https://www.virustotal.com/api/v3/urls/998da493b714331f7655fa03f0e7ec9150953fb82c5b1ba9ae222ef2efe2a95b"
+                },
+                "attributes": {
+                    "date": 1753902114,
+                    "results": {},
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "998da493b714331f7655fa03f0e7ec9150953fb82c5b1ba9ae222ef2efe2a95b",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51936631677&text=Solicito%20PDF%20Informativo%20sobre%20el%20Entrenamiento%20Internacional%20*LIDERAZGO%20CON%20INTELIGENCIA%20EMOCIONAL%20ca*&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|b8011d868fbc453b563e08ddce2e80e2|7b09041e245149d08cb179d5e3d8c1be|0|0|638893421379292448|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=Ehs9cxdJW4/B8xZMaabEvSO5TJaNseH+Ibn16D1cZns=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51936631677%26text%3DSolicito%2520PDF%2520Informativo%2520sobre%2520el%2520Entrenamiento%2520Internacional%2520*LIDERAZGO%2520CON%2520INTELIGENCIA%2520EMOCIONAL%2520ca*&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C3c32c9f3726346c6791b08ddce455ff7%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893519579205104%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=1%2BPz7rF2gZ5shtEhuO68bVjabUdSjBdF%2Fiw3cbrO3Nw%3D&reserved=0": {
+            "data": {
+                "id": "u-8743df40bf4315a02b852a4cf7f62c4a13a379ac29eae9386a14d9df25065bb3-1753902115",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-8743df40bf4315a02b852a4cf7f62c4a13a379ac29eae9386a14d9df25065bb3-1753902115",
+                    "item": "https://www.virustotal.com/api/v3/urls/8743df40bf4315a02b852a4cf7f62c4a13a379ac29eae9386a14d9df25065bb3"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1753902115,
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "8743df40bf4315a02b852a4cf7f62c4a13a379ac29eae9386a14d9df25065bb3",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51936631677&text=Solicito%20PDF%20Informativo%20sobre%20el%20Entrenamiento%20Internacional%20*LIDERAZGO%20CON%20INTELIGENCIA%20EMOCIONAL%20ca*&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|3c32c9f3726346c6791b08ddce455ff7|7b09041e245149d08cb179d5e3d8c1be|0|0|638893519579205104|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=1+Pz7rF2gZ5shtEhuO68bVjabUdSjBdF/iw3cbrO3Nw=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51990377216%26text%3DPor%2520favor%2520info%2520sobre%2520M%25C3%25A9tricas%2520e%2520Indicadores%2520en%2520la%2520Gesti%25C3%25B3n%2520de%2520Ventas%2520a%2520354%2520Soles%2520o%2520100.30%2520Dolares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C24da1e4c88b245c67a3408ddcd8b84b2%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892721389336327%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=lo6%2BrPVei2ucBQTKbERtKmwQ5LBjgvBWRz%2B9I5B5yZk%3D&reserved=0": {
+            "data": {
+                "id": "u-543e7aa7c8a903b8a3e54dd0e72a9db94c1a64617ac55ae618d52de97f1e394a-1753902115",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-543e7aa7c8a903b8a3e54dd0e72a9db94c1a64617ac55ae618d52de97f1e394a-1753902115",
+                    "item": "https://www.virustotal.com/api/v3/urls/543e7aa7c8a903b8a3e54dd0e72a9db94c1a64617ac55ae618d52de97f1e394a"
+                },
+                "attributes": {
+                    "date": 1753902115,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "543e7aa7c8a903b8a3e54dd0e72a9db94c1a64617ac55ae618d52de97f1e394a",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51990377216&text=Por%20favor%20info%20sobre%20M%C3%A9tricas%20e%20Indicadores%20en%20la%20Gesti%C3%B3n%20de%20Ventas%20a%20354%20Soles%20o%20100.30%20Dolares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|24da1e4c88b245c67a3408ddcd8b84b2|7b09041e245149d08cb179d5e3d8c1be|0|0|638892721389336327|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=lo6+rPVei2ucBQTKbERtKmwQ5LBjgvBWRz+9I5B5yZk=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51990377216%26text%3DPor%2520favor%2520info%2520sobre%2520M%25C3%25A9tricas%2520e%2520Indicadores%2520en%2520la%2520Gesti%25C3%25B3n%2520de%2520Ventas%2520a%2520354%2520Soles%2520o%2520100.30%2520Dolares&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C1dfdd1d804534d831c3d08ddcd60882b%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892536745845195%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=I%2BKllJOZEfGrOP3ToTJjhOaK1fWtoYjyeSKAdBNn%2F8s%3D&reserved=0": {
+            "data": {
+                "id": "u-34a1101c03357a3943a47ea10a9553eaeaa8df79f0a1d874a8216c200a70c306-1753902116",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-34a1101c03357a3943a47ea10a9553eaeaa8df79f0a1d874a8216c200a70c306-1753902116",
+                    "item": "https://www.virustotal.com/api/v3/urls/34a1101c03357a3943a47ea10a9553eaeaa8df79f0a1d874a8216c200a70c306"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "date": 1753902116,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "34a1101c03357a3943a47ea10a9553eaeaa8df79f0a1d874a8216c200a70c306",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51990377216&text=Por%20favor%20info%20sobre%20M%C3%A9tricas%20e%20Indicadores%20en%20la%20Gesti%C3%B3n%20de%20Ventas%20a%20354%20Soles%20o%20100.30%20Dolares&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|1dfdd1d804534d831c3d08ddcd60882b|7b09041e245149d08cb179d5e3d8c1be|0|0|638892536745845195|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=I+KllJOZEfGrOP3ToTJjhOaK1fWtoYjyeSKAdBNn/8s=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D51936631677%26text%3DSolicito%2520PDF%2520Informativo%2520sobre%2520el%2520Entrenamiento%2520Internacional%2520*TRABAJO%2520EN%2520EQUIPO%2520Y%2520COLABORACION%2520DE%2520ALTO%2520RENDIMIENTO%2520ca*&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7C328bbff7e0d3426a81eb08ddce21c824%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638893366732487100%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=GcHAm%2BwxbWZDFu1ESLXG3YJSsTtX%2B6u2MFTa8YW4g2c%3D&reserved=0": {
+            "data": {
+                "id": "u-0f3331e2c136557751d26245687743fc06910147f94641fa72657009facc6569-1753902119",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-0f3331e2c136557751d26245687743fc06910147f94641fa72657009facc6569-1753902119",
+                    "item": "https://www.virustotal.com/api/v3/urls/0f3331e2c136557751d26245687743fc06910147f94641fa72657009facc6569"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "date": 1753902119,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "0f3331e2c136557751d26245687743fc06910147f94641fa72657009facc6569",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://api.whatsapp.com/send?phone=51936631677&text=Solicito%20PDF%20Informativo%20sobre%20el%20Entrenamiento%20Internacional%20*TRABAJO%20EN%20EQUIPO%20Y%20COLABORACION%20DE%20ALTO%20RENDIMIENTO%20ca*&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|328bbff7e0d3426a81eb08ddce21c824|7b09041e245149d08cb179d5e3d8c1be|0|0|638893366732487100|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=GcHAm+wxbWZDFu1ESLXG3YJSsTtX+6u2MFTa8YW4g2c=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flx-aries-star-mail.qiye.163.com%2Fapi%2Fj%2Fre%3Fc%3Dhttps%253A%252F%252Flx-leo-star-mail.qiye.163.com%252Funsubscribe_en.html%253Fhost%253Dlx-virgo-star-mail.qiye.163.com%2526sign%253DV2.gMw6DaoXRGG_NL4ufQR3UcMvUbXUUMjMgZIhVZ76gBIaNUsXKuOksymOzuJ2cOy4MTHFIGrcMa4Pz9aoMuV_dzh-RzPTj5t_0bUO-mA2_SLvh2ipKCxewDqYdbxPDNHwRIykkq_Im70sSI3prh-f0yY5wiUE3RP8bkKGOqT5qVO1dGNcWr6C4t7aP6rM2zQCmp01WNoFEQwW-x9RqWMi5A%2526from%253Dlei.yang%40ymsflooring.com&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Ca39d6eb0cbaf4a71981408ddcdaa6b81%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638892854463131314%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=2V5%2FEVQnhe6zs1rcWoQi3Erhks4zE5WEGjc7iXEbLkk%3D&reserved=0": {
+            "data": {
+                "id": "u-a84955bbae04c66a84f365e65bc9299d1c1ecfacae8db2506634a3b7c16fa566-1753902120",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-a84955bbae04c66a84f365e65bc9299d1c1ecfacae8db2506634a3b7c16fa566-1753902120",
+                    "item": "https://www.virustotal.com/api/v3/urls/a84955bbae04c66a84f365e65bc9299d1c1ecfacae8db2506634a3b7c16fa566"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "results": {},
+                    "date": 1753902120
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "a84955bbae04c66a84f365e65bc9299d1c1ecfacae8db2506634a3b7c16fa566",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://lx-aries-star-mail.qiye.163.com/api/j/re?c=https://lx-leo-star-mail.qiye.163.com/unsubscribe_en.html?host=lx-virgo-star-mail.qiye.163.com&sign=V2.gMw6DaoXRGG_NL4ufQR3UcMvUbXUUMjMgZIhVZ76gBIaNUsXKuOksymOzuJ2cOy4MTHFIGrcMa4Pz9aoMuV_dzh-RzPTj5t_0bUO-mA2_SLvh2ipKCxewDqYdbxPDNHwRIykkq_Im70sSI3prh-f0yY5wiUE3RP8bkKGOqT5qVO1dGNcWr6C4t7aP6rM2zQCmp01WNoFEQwW-x9RqWMi5A&from=lei.yang@ymsflooring.com&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|a39d6eb0cbaf4a71981408ddcdaa6b81|7b09041e245149d08cb179d5e3d8c1be|0|0|638892854463131314|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|40000|||&sdata=2V5/EVQnhe6zs1rcWoQi3Erhks4zE5WEGjc7iXEbLkk=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flx": {
+            "data": {
+                "id": "u-5098b616d8e76154dcb9113bbee5058d8aacc6b0df6f241e56228f7f7b559037-1753902120",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-5098b616d8e76154dcb9113bbee5058d8aacc6b0df6f241e56228f7f7b559037-1753902120",
+                    "item": "https://www.virustotal.com/api/v3/urls/5098b616d8e76154dcb9113bbee5058d8aacc6b0df6f241e56228f7f7b559037"
+                },
+                "attributes": {
+                    "results": {},
+                    "status": "queued",
+                    "date": 1753902120,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "5098b616d8e76154dcb9113bbee5058d8aacc6b0df6f241e56228f7f7b559037",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://lx"
+                }
+            }
+        }
+    },
+    "files": {}
+}
