@@ -26,7 +26,7 @@ except FileNotFoundError:
 load_dotenv(dotenv_path=ENV_PATH)
 VT_API_KEY = os.getenv("VT_API_KEY")  # Guarda tu API Key de Virus Total en el archivo keys.env
 JSON_TRACE_PATH = "docs\\traza_virustotal.json"
-JSON_CLAVES_PATH = "claves_analisis.json"
+JSON_CLAVES_PATH = "docs\\claves_analisis.json"
 
 # ==================== FUNCIONES DE UTILIDAD ====================
 
@@ -114,11 +114,9 @@ def evaluar_spoofing(headers):
                 dmarc = "❌ Falló"
     return spf, dkim, dmarc
 
-def detectar_publicitario(texto, html, from_):
+def detectar_publicitario(texto, from_):
     claves = cargar_claves().get('publicidad', [])
     if any(palabra in texto.lower() for palabra in claves):
-        return True
-    if any(palabra in html.lower() for palabra in claves):
         return True
     if any(alias in from_.lower() for alias in ['noreply', 'info', 'newsletter']):
         return True
@@ -210,7 +208,7 @@ def procesar_correo(path, traza, output_dir, resumen_global, resumen_estadistica
         adjunto_info.append((nombre, hash_arch, detecciones))
 
     spf, dkim, dmarc = evaluar_spoofing(headers)
-    es_publicitario = detectar_publicitario(body_text, body_html, from_)
+    es_publicitario = detectar_publicitario(body_text, from_)
     es_phishing = detectar_phishing_por_texto(body_text)
     veredicto = obtener_veredicto(total_detecciones, spf, dkim, dmarc, urls, adjuntos, es_publicitario, es_phishing)
 

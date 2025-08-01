@@ -1,6 +1,7 @@
 {
   "phishing": [
     "envi[ée] su contrase[ñn]a",
+    "envía su contraseña",
     "desactivaremos su cuenta",
     "actualizaci[oó]n de su cuenta",
     "verifique su informaci[oó]n",
@@ -36,6 +37,11 @@
     "exclusivo",
     "limitado",
     "nuevo producto",
-    "mejora tu vida"
+    "mejora tu vida",
+    "projects",
+    "providing integrated solutions",
+    "diplomado",
+    "unsubscribe",
+    "cancelar suscripción"
   ]
 }
