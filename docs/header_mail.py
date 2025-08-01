@@ -150,7 +150,7 @@ def obtener_veredicto(total_detecciones, spf, dkim, dmarc, urls, adjuntos, es_pu
     else:
         return "✅ Sin señales directas de amenaza"
 
-def procesar_correo(path, traza, output_dir, resumen_global, resumen_estadisticas):
+def procesar_correo(path, traza, output_dir, resumen_global, resumen_estadisticas, correo_reportar):
     with open(path, 'rb') as f:
         msg = BytesParser(policy=policy.default).parse(f)
 
@@ -213,6 +213,8 @@ def procesar_correo(path, traza, output_dir, resumen_global, resumen_estadistica
     veredicto = obtener_veredicto(total_detecciones, spf, dkim, dmarc, urls, adjuntos, es_publicitario, es_phishing)
 
     resumen_estadisticas[veredicto] = resumen_estadisticas.get(veredicto, 0) + 1
+    if not veredicto== "✅ Sin señales directas de amenaza":
+        correo_reportar.extend([from_]) if from_ not in correo_reportar else None
 
     informe = [
         f"📬 Archivo: {filename}",
@@ -266,13 +268,18 @@ def seleccionar_y_procesar():
         return
 
     resumen_global = []
+    correo_reportar = []
+    correo_reportar.extend(["📧 Correos a reportar:"])
     resumen_estadisticas = {}
     traza = cargar_traza()
+    carpeta_adjuntos = os.path.join(carpeta_salida, "adjuntos")
+    os.makedirs(carpeta_adjuntos, exist_ok=True)
     for archivo in archivos:
-        procesar_correo(archivo, traza, carpeta_salida, resumen_global, resumen_estadisticas)
+        procesar_correo(archivo, traza, carpeta_adjuntos, resumen_global, resumen_estadisticas, correo_reportar)
 
     guardar_traza(traza)
-
+    # Encabezado con correos a reportar
+    correo_reportar.extend(["-"*60 + "\n"])
     # Encabezado con resumen estadístico
     encabezado = ["📊 Resumen del análisis:"]
     for clave, valor in resumen_estadisticas.items():
@@ -285,7 +292,7 @@ def seleccionar_y_procesar():
     ruta_salida = os.path.join(carpeta_salida, nombre_archivo)
 
     with open(ruta_salida, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(encabezado + resumen_global))
+        f.write('\n'.join(correo_reportar + encabezado + resumen_global))
 
     print(f"\n📄 Informe consolidado generado: {ruta_salida}")
     print("🎉 Todos los correos fueron analizados.")
