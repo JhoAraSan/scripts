@@ -12,6 +12,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup #pip install beautifulsoup4
 from dotenv import load_dotenv #pip install python-dotenv ---> para cargar las variables de entorno
 import sys
+from datetime import timedelta, timezone
 
 # ==================== CONFIGURACIÓN ====================
 ENV_PATH = "docs\keys.env"
@@ -155,7 +156,20 @@ def procesar_correo(path, traza, output_dir, resumen_global, resumen_estadistica
         msg = BytesParser(policy=policy.default).parse(f)
 
     headers = dict(msg.items())
-    date = msg['Date']
+    # Obtener la fecha y convertirla a datetime, luego ajustar a GMT-5
+    date_header = msg['Date']
+    if date_header:
+        try:
+            date_obj = parsedate_to_datetime(date_header)
+            # Ajustar a GMT-5 (restar 5 horas)
+            gmt_minus_5 = timezone(timedelta(hours=-5))
+            date_obj = date_obj.astimezone(gmt_minus_5)
+            # Formatear la fecha
+            date = date_obj.strftime("%a, %d %b %Y %H:%M:%S (GMT-5)")
+        except Exception:
+            date = date_header
+    else:
+        date = "Desconocida"
     subject = msg['Subject']
     from_ = msg['From']
     reply_to = msg['Reply-To']
