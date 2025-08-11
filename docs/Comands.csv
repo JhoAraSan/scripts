@@ -47,7 +47,10 @@ source <name-env>/bin/activate; activar entorno virtual en linux; source mientor
 pip install -r <file.txt>;Instalar librerias desde texto;pip install -r requirements.txt
 pip freeze > .\<file.txt>;Guardar en un TXT las librerias del entorno;pip freeze > .\requirements.txt
 
-pip install fastapi;installar fast appi
+pip uninstall <package_name>;Desinstalar un paquete;pip uninstall fastapi
+pip uninstall -y <package_name>;Desinstalar un paquete sin pedir confirmación;pip uninstall -y fastapi
+pip install <package_name>;instalar la libreria o paquete; pip install fastapi
+
 pip install "uvicorn[standard]"; instalar servidor de pruebas
 uvicorn <archive>:<name function app> --reload; levantar el servidor; uvicorn main:miapp --reload
 
