@@ -30,3 +30,5 @@ build/
 # Otros
 *.bak
 *.tmp
+
+docs/traza_virustotal.json
