@@ -138,9 +138,9 @@ def obtener_veredicto(total_detecciones, spf, dkim, dmarc, urls, adjuntos, es_pu
 
     score = 0
     score += total_detecciones
-    score += 1 if spf == "❌ Falló" else 0
-    score += 1 if dkim == "❌ Falló" else 0
-    score += 1 if dmarc == "❌ Falló" else 0
+    score += 3 if spf == "❌ Falló" else 0
+    score += 3 if dkim == "❌ Falló" else 0
+    score += 3 if dmarc == "❌ Falló" else 0
     score += len([u for u in urls if 'bit.ly' in u or 'tinyurl' in u])
     score += len([a for a in adjuntos if a.lower().endswith(('.js', '.exe', '.docm', '.vbs'))])
 
