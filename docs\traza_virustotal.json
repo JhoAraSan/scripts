@@ -1,0 +1,1182 @@
+{
+    "urls": {
+        "https://70pnbbng.r.us": {
+            "data": {
+                "id": "u-536a7cef8ed40e56bf31c082fa7e8426cf6c2a3ea0d87c1577ff6615ec453753-7cff614b",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-536a7cef8ed40e56bf31c082fa7e8426cf6c2a3ea0d87c1577ff6615ec453753-7cff614b",
+                    "item": "https://www.virustotal.com/api/v3/urls/536a7cef8ed40e56bf31c082fa7e8426cf6c2a3ea0d87c1577ff6615ec453753"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "date": 1758735166
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "536a7cef8ed40e56bf31c082fa7e8426cf6c2a3ea0d87c1577ff6615ec453753",
+                    "url": "https://70pnbbng.r.us/"
+                }
+            }
+        },
+        "mailto:dudasfacturacionelectronica@segurosbolivar.com": {
+            "data": {
+                "id": "u-7de2381b584a7cce5484e967af6b35cf2c36a22455d4eab8363379b51cc564fb-7cff614b",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-7de2381b584a7cce5484e967af6b35cf2c36a22455d4eab8363379b51cc564fb-7cff614b",
+                    "item": "https://www.virustotal.com/api/v3/urls/7de2381b584a7cce5484e967af6b35cf2c36a22455d4eab8363379b51cc564fb"
+                },
+                "attributes": {
+                    "date": 1758735166,
+                    "status": "queued",
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "7de2381b584a7cce5484e967af6b35cf2c36a22455d4eab8363379b51cc564fb",
+                    "url": "http://mailto:dudasfacturacionelectronica@segurosbolivar.com/"
+                }
+            }
+        },
+        "https://www.cisco.com/c/en/us/about/legal/privacy.html": {
+            "data": {
+                "id": "u-18d4ac481f7cfa4ad115b441e9f2491f6ceec269586b8f5d553ddd2e4de9ed0c-42d8f360",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-18d4ac481f7cfa4ad115b441e9f2491f6ceec269586b8f5d553ddd2e4de9ed0c-42d8f360",
+                    "item": "https://www.virustotal.com/api/v3/urls/18d4ac481f7cfa4ad115b441e9f2491f6ceec269586b8f5d553ddd2e4de9ed0c"
+                },
+                "attributes": {
+                    "results": {},
+                    "status": "queued",
+                    "date": 1759777020,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "18d4ac481f7cfa4ad115b441e9f2491f6ceec269586b8f5d553ddd2e4de9ed0c",
+                    "url": "https://www.cisco.com/c/en/us/about/legal/privacy.html"
+                }
+            }
+        },
+        "https://www.facebook.com/cisconetworkingacademy/": {
+            "data": {
+                "id": "u-a8b71d2b6dbcca5332d8ea332a5ff15cee63f2548e3777ce402f2238c6c24ac9-42d8f360",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-a8b71d2b6dbcca5332d8ea332a5ff15cee63f2548e3777ce402f2238c6c24ac9-42d8f360",
+                    "item": "https://www.virustotal.com/api/v3/urls/a8b71d2b6dbcca5332d8ea332a5ff15cee63f2548e3777ce402f2238c6c24ac9"
+                },
+                "attributes": {
+                    "date": 1759777020,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "a8b71d2b6dbcca5332d8ea332a5ff15cee63f2548e3777ce402f2238c6c24ac9",
+                    "url": "https://www.facebook.com/cisconetworkingacademy/"
+                }
+            }
+        },
+        "https://twitter.com/CiscoNetAcad": {
+            "data": {
+                "id": "u-f8f17227a56231b67221c4a543748f1276259a558e975663b01d4538ce5d7301-4f556140",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-f8f17227a56231b67221c4a543748f1276259a558e975663b01d4538ce5d7301-4f556140",
+                    "item": "https://www.virustotal.com/api/v3/urls/f8f17227a56231b67221c4a543748f1276259a558e975663b01d4538ce5d7301"
+                },
+                "attributes": {
+                    "results": {},
+                    "date": 1759777021,
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "f8f17227a56231b67221c4a543748f1276259a558e975663b01d4538ce5d7301",
+                    "url": "https://twitter.com/CiscoNetAcad"
+                }
+            }
+        },
+        "https://www.linkedin.com/school/cisco-networking-academy1/": {
+            "data": {
+                "id": "u-99f29cf626a423927a6712f56b4428f4602dd3c5db2a166fad20a0bd90637529-b388103f",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-99f29cf626a423927a6712f56b4428f4602dd3c5db2a166fad20a0bd90637529-b388103f",
+                    "item": "https://www.virustotal.com/api/v3/urls/99f29cf626a423927a6712f56b4428f4602dd3c5db2a166fad20a0bd90637529"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1759777022,
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "99f29cf626a423927a6712f56b4428f4602dd3c5db2a166fad20a0bd90637529",
+                    "url": "https://www.linkedin.com/school/cisco-networking-academy1/"
+                }
+            }
+        },
+        "https://www.cisco.com/c/en/us/about/legal/trademarks.html ": {
+            "data": {
+                "id": "u-e3f4335f7dd2ca2b0f8bd73f4f41a7acca002c92451bb8133c415f7d1400d291-d8a0a276",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-e3f4335f7dd2ca2b0f8bd73f4f41a7acca002c92451bb8133c415f7d1400d291-d8a0a276",
+                    "item": "https://www.virustotal.com/api/v3/urls/e3f4335f7dd2ca2b0f8bd73f4f41a7acca002c92451bb8133c415f7d1400d291"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "date": 1759777023,
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "e3f4335f7dd2ca2b0f8bd73f4f41a7acca002c92451bb8133c415f7d1400d291",
+                    "url": "https://www.cisco.com/c/en/us/about/legal/trademarks.html"
+                }
+            }
+        },
+        "https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=es-XL&instance_id=8b533a44-27c4-4779-ba95-832cf11bb0e1": {
+            "data": {
+                "id": "u-99204ab1c415a1ed0fbd8b564aee2d059d58cd1011b45145780003ebdbc0b4d0-d8a0a276",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-99204ab1c415a1ed0fbd8b564aee2d059d58cd1011b45145780003ebdbc0b4d0-d8a0a276",
+                    "item": "https://www.virustotal.com/api/v3/urls/99204ab1c415a1ed0fbd8b564aee2d059d58cd1011b45145780003ebdbc0b4d0"
+                },
+                "attributes": {
+                    "date": 1759777023,
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "99204ab1c415a1ed0fbd8b564aee2d059d58cd1011b45145780003ebdbc0b4d0",
+                    "url": "https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=es-XL&instance_id=8b533a44-27c4-4779-ba95-832cf11bb0e1"
+                }
+            }
+        },
+        "https://netacad.com/": {
+            "data": {
+                "id": "u-422eea3c224a4d80419a830dca3e1d94539576557fb1e39eca314370c2ab2c83-3066ee69",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-422eea3c224a4d80419a830dca3e1d94539576557fb1e39eca314370c2ab2c83-3066ee69",
+                    "item": "https://www.virustotal.com/api/v3/urls/422eea3c224a4d80419a830dca3e1d94539576557fb1e39eca314370c2ab2c83"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1759777024,
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "422eea3c224a4d80419a830dca3e1d94539576557fb1e39eca314370c2ab2c83",
+                    "url": "https://netacad.com/"
+                }
+            }
+        },
+        "https://www.cisco.com/ ": {
+            "data": {
+                "id": "u-ffe73313afcd583bad1357887bbf30f4468700ed9e5c33031b283825bfc787a6-6db40324",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-ffe73313afcd583bad1357887bbf30f4468700ed9e5c33031b283825bfc787a6-6db40324",
+                    "item": "https://www.virustotal.com/api/v3/urls/ffe73313afcd583bad1357887bbf30f4468700ed9e5c33031b283825bfc787a6"
+                },
+                "attributes": {
+                    "status": "completed",
+                    "results": {
+                        "Artists Against 419": {
+                            "method": "blacklist",
+                            "engine_name": "Artists Against 419",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Acronis": {
+                            "method": "blacklist",
+                            "engine_name": "Acronis",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Abusix": {
+                            "method": "blacklist",
+                            "engine_name": "Abusix",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ADMINUSLabs": {
+                            "method": "blacklist",
+                            "engine_name": "ADMINUSLabs",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Lionic": {
+                            "method": "blacklist",
+                            "engine_name": "Lionic",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Criminal IP": {
+                            "method": "blacklist",
+                            "engine_name": "Criminal IP",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "AILabs (MONITORAPP)": {
+                            "method": "blacklist",
+                            "engine_name": "AILabs (MONITORAPP)",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "AlienVault": {
+                            "method": "blacklist",
+                            "engine_name": "AlienVault",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "alphaMountain.ai": {
+                            "method": "blacklist",
+                            "engine_name": "alphaMountain.ai",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "AlphaSOC": {
+                            "method": "blacklist",
+                            "engine_name": "AlphaSOC",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Antiy-AVL": {
+                            "method": "blacklist",
+                            "engine_name": "Antiy-AVL",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ArcSight Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "ArcSight Threat Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "AutoShun": {
+                            "method": "blacklist",
+                            "engine_name": "AutoShun",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Axur": {
+                            "method": "blacklist",
+                            "engine_name": "Axur",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "benkow.cc": {
+                            "method": "blacklist",
+                            "engine_name": "benkow.cc",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Bfore.Ai PreCrime": {
+                            "method": "blacklist",
+                            "engine_name": "Bfore.Ai PreCrime",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "BitDefender": {
+                            "method": "blacklist",
+                            "engine_name": "BitDefender",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Bkav": {
+                            "method": "blacklist",
+                            "engine_name": "Bkav",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "BlockList": {
+                            "method": "blacklist",
+                            "engine_name": "BlockList",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Blueliv": {
+                            "method": "blacklist",
+                            "engine_name": "Blueliv",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Certego": {
+                            "method": "blacklist",
+                            "engine_name": "Certego",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ChainPatrol": {
+                            "method": "blacklist",
+                            "engine_name": "ChainPatrol",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Chong Lua Dao": {
+                            "method": "blacklist",
+                            "engine_name": "Chong Lua Dao",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CINS Army": {
+                            "method": "blacklist",
+                            "engine_name": "CINS Army",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Snort IP sample list": {
+                            "method": "blacklist",
+                            "engine_name": "Snort IP sample list",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Cluster25": {
+                            "method": "blacklist",
+                            "engine_name": "Cluster25",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "CMC Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "CMC Threat Intelligence",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Xcitium Verdict Cloud": {
+                            "method": "blacklist",
+                            "engine_name": "Xcitium Verdict Cloud",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CRDF": {
+                            "method": "blacklist",
+                            "engine_name": "CRDF",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CSIS Security Group": {
+                            "method": "blacklist",
+                            "engine_name": "CSIS Security Group",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Cyan": {
+                            "method": "blacklist",
+                            "engine_name": "Cyan",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Cyble": {
+                            "method": "blacklist",
+                            "engine_name": "Cyble",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "CyRadar": {
+                            "method": "blacklist",
+                            "engine_name": "CyRadar",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "desenmascara.me": {
+                            "method": "blacklist",
+                            "engine_name": "desenmascara.me",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "DNS8": {
+                            "method": "blacklist",
+                            "engine_name": "DNS8",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Dr.Web": {
+                            "method": "blacklist",
+                            "engine_name": "Dr.Web",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Emsisoft": {
+                            "method": "blacklist",
+                            "engine_name": "Emsisoft",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Ermes": {
+                            "method": "blacklist",
+                            "engine_name": "Ermes",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "ESET": {
+                            "method": "blacklist",
+                            "engine_name": "ESET",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ESTsecurity": {
+                            "method": "blacklist",
+                            "engine_name": "ESTsecurity",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "EmergingThreats": {
+                            "method": "blacklist",
+                            "engine_name": "EmergingThreats",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Feodo Tracker": {
+                            "method": "blacklist",
+                            "engine_name": "Feodo Tracker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Fortinet": {
+                            "method": "blacklist",
+                            "engine_name": "Fortinet",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "G-Data": {
+                            "method": "blacklist",
+                            "engine_name": "G-Data",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Google Safebrowsing": {
+                            "method": "blacklist",
+                            "engine_name": "Google Safebrowsing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "GCP Abuse Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "GCP Abuse Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "GreenSnow": {
+                            "method": "blacklist",
+                            "engine_name": "GreenSnow",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Gridinsoft": {
+                            "method": "blacklist",
+                            "engine_name": "Gridinsoft",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Heimdal Security": {
+                            "method": "blacklist",
+                            "engine_name": "Heimdal Security",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Hunt.io Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "Hunt.io Intelligence",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "IPsum": {
+                            "method": "blacklist",
+                            "engine_name": "IPsum",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Juniper Networks": {
+                            "method": "blacklist",
+                            "engine_name": "Juniper Networks",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Kaspersky": {
+                            "method": "blacklist",
+                            "engine_name": "Kaspersky",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Lumu": {
+                            "method": "blacklist",
+                            "engine_name": "Lumu",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Malwared": {
+                            "method": "blacklist",
+                            "engine_name": "Malwared",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "MalwareURL": {
+                            "method": "blacklist",
+                            "engine_name": "MalwareURL",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "MalwarePatrol": {
+                            "method": "blacklist",
+                            "engine_name": "MalwarePatrol",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "malwares.com URL checker": {
+                            "method": "blacklist",
+                            "engine_name": "malwares.com URL checker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Mimecast": {
+                            "method": "blacklist",
+                            "engine_name": "Mimecast",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Netcraft": {
+                            "method": "blacklist",
+                            "engine_name": "Netcraft",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "OpenPhish": {
+                            "method": "blacklist",
+                            "engine_name": "OpenPhish",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "0xSI_f33d": {
+                            "method": "blacklist",
+                            "engine_name": "0xSI_f33d",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Phishing Database": {
+                            "method": "blacklist",
+                            "engine_name": "Phishing Database",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PhishFort": {
+                            "method": "blacklist",
+                            "engine_name": "PhishFort",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "PhishLabs": {
+                            "method": "blacklist",
+                            "engine_name": "PhishLabs",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Phishtank": {
+                            "method": "blacklist",
+                            "engine_name": "Phishtank",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PREBYTES": {
+                            "method": "blacklist",
+                            "engine_name": "PREBYTES",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "PrecisionSec": {
+                            "method": "blacklist",
+                            "engine_name": "PrecisionSec",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Quick Heal": {
+                            "method": "blacklist",
+                            "engine_name": "Quick Heal",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Quttera": {
+                            "method": "blacklist",
+                            "engine_name": "Quttera",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Rising": {
+                            "method": "blacklist",
+                            "engine_name": "Rising",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SafeToOpen": {
+                            "method": "blacklist",
+                            "engine_name": "SafeToOpen",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Sangfor": {
+                            "method": "blacklist",
+                            "engine_name": "Sangfor",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Sansec eComscan": {
+                            "method": "blacklist",
+                            "engine_name": "Sansec eComscan",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "Scantitan": {
+                            "method": "blacklist",
+                            "engine_name": "Scantitan",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SCUMWARE.org": {
+                            "method": "blacklist",
+                            "engine_name": "SCUMWARE.org",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Seclookup": {
+                            "method": "blacklist",
+                            "engine_name": "Seclookup",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "SOCRadar": {
+                            "method": "blacklist",
+                            "engine_name": "SOCRadar",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Sophos": {
+                            "method": "blacklist",
+                            "engine_name": "Sophos",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Spam404": {
+                            "method": "blacklist",
+                            "engine_name": "Spam404",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "StopForumSpam": {
+                            "method": "blacklist",
+                            "engine_name": "StopForumSpam",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Sucuri SiteCheck": {
+                            "method": "blacklist",
+                            "engine_name": "Sucuri SiteCheck",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "securolytics": {
+                            "method": "blacklist",
+                            "engine_name": "securolytics",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Threatsourcing": {
+                            "method": "blacklist",
+                            "engine_name": "Threatsourcing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ThreatHive": {
+                            "method": "blacklist",
+                            "engine_name": "ThreatHive",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Trustwave": {
+                            "method": "blacklist",
+                            "engine_name": "Trustwave",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Underworld": {
+                            "method": "blacklist",
+                            "engine_name": "Underworld",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "URLhaus": {
+                            "method": "blacklist",
+                            "engine_name": "URLhaus",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "URLQuery": {
+                            "method": "blacklist",
+                            "engine_name": "URLQuery",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Viettel Threat Intelligence": {
+                            "method": "blacklist",
+                            "engine_name": "Viettel Threat Intelligence",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "VIPRE": {
+                            "method": "blacklist",
+                            "engine_name": "VIPRE",
+                            "category": "undetected",
+                            "result": "unrated"
+                        },
+                        "ViriBack": {
+                            "method": "blacklist",
+                            "engine_name": "ViriBack",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "VX Vault": {
+                            "method": "blacklist",
+                            "engine_name": "VX Vault",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Webroot": {
+                            "method": "blacklist",
+                            "engine_name": "Webroot",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Forcepoint ThreatSeeker": {
+                            "method": "blacklist",
+                            "engine_name": "Forcepoint ThreatSeeker",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "Yandex Safebrowsing": {
+                            "method": "blacklist",
+                            "engine_name": "Yandex Safebrowsing",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ZeroCERT": {
+                            "method": "blacklist",
+                            "engine_name": "ZeroCERT",
+                            "category": "harmless",
+                            "result": "clean"
+                        },
+                        "ZeroFox": {
+                            "method": "blacklist",
+                            "engine_name": "ZeroFox",
+                            "category": "undetected",
+                            "result": "unrated"
+                        }
+                    },
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 27,
+                        "harmless": 71,
+                        "timeout": 0
+                    },
+                    "date": 1759776930
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "ffe73313afcd583bad1357887bbf30f4468700ed9e5c33031b283825bfc787a6",
+                    "url": "https://www.cisco.com/"
+                }
+            }
+        },
+        "https://www.youtube.com/playlist?list=PLA48B49E7FB15439B": {
+            "data": {
+                "id": "u-59840834ae9ac2050618cac6cba361b83fdd0886c6fe1a5eac9bc5bb818439ce-f943af9b",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-59840834ae9ac2050618cac6cba361b83fdd0886c6fe1a5eac9bc5bb818439ce-f943af9b",
+                    "item": "https://www.virustotal.com/api/v3/urls/59840834ae9ac2050618cac6cba361b83fdd0886c6fe1a5eac9bc5bb818439ce"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "status": "queued",
+                    "results": {},
+                    "date": 1759777026
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "59840834ae9ac2050618cac6cba361b83fdd0886c6fe1a5eac9bc5bb818439ce",
+                    "url": "https://www.youtube.com/playlist?list=PLA48B49E7FB15439B"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7b02a&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044183753%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=R8W0dwoMTN4g9OJIxIWjPUFvbDO8BhCMwLy3YjrFklU%3D&reserved=0": {
+            "data": {
+                "id": "u-602d231a6e0ea1f08f0ba6748f025c3d82d0ee9e652a1149f44a569f56aa1bb5-5a26b74d",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-602d231a6e0ea1f08f0ba6748f025c3d82d0ee9e652a1149f44a569f56aa1bb5-5a26b74d",
+                    "item": "https://www.virustotal.com/api/v3/urls/602d231a6e0ea1f08f0ba6748f025c3d82d0ee9e652a1149f44a569f56aa1bb5"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "date": 1760535954
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "602d231a6e0ea1f08f0ba6748f025c3d82d0ee9e652a1149f44a569f56aa1bb5",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7b02a&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044183753|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=R8W0dwoMTN4g9OJIxIWjPUFvbDO8BhCMwLy3YjrFklU=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afc1&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044134034%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6Qz%2B1EZqrJxMvSui8jwMhs01kTvaBHzBVhswRovQaz4%3D&reserved=0": {
+            "data": {
+                "id": "u-07e4c4386017562cabc874a4cae8853a48dca47d33acd5377801c715d68b6b81-8ae3f682",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-07e4c4386017562cabc874a4cae8853a48dca47d33acd5377801c715d68b6b81-8ae3f682",
+                    "item": "https://www.virustotal.com/api/v3/urls/07e4c4386017562cabc874a4cae8853a48dca47d33acd5377801c715d68b6b81"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued",
+                    "date": 1760535956
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "07e4c4386017562cabc874a4cae8853a48dca47d33acd5377801c715d68b6b81",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afc1&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044134034|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=6Qz+1EZqrJxMvSui8jwMhs01kTvaBHzBVhswRovQaz4=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afc0&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044108022%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DjDMI6U88be2kGPVCI3fHilwlzEe%2FGypgOcgbpZyVJM%3D&reserved=0": {
+            "data": {
+                "id": "u-6f1f0010849f715dc1df974c3453ff25c6b4a1fbed160666b2586b1f9b31ad2c-90997878",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-6f1f0010849f715dc1df974c3453ff25c6b4a1fbed160666b2586b1f9b31ad2c-90997878",
+                    "item": "https://www.virustotal.com/api/v3/urls/6f1f0010849f715dc1df974c3453ff25c6b4a1fbed160666b2586b1f9b31ad2c"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "date": 1760535957,
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "6f1f0010849f715dc1df974c3453ff25c6b4a1fbed160666b2586b1f9b31ad2c",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afc0&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044108022|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=DjDMI6U88be2kGPVCI3fHilwlzEe/GypgOcgbpZyVJM=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afbf&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044083694%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=csGHPDpqVeJga%2BeM37XvN%2BhTKvTdlRX8FSYZGQoXmyw%3D&reserved=0": {
+            "data": {
+                "id": "u-8e51c11b0552b599412bfdb6d802c8c690dc26d0ef0c6997196afe750fc671c5-17dd7763",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-8e51c11b0552b599412bfdb6d802c8c690dc26d0ef0c6997196afe750fc671c5-17dd7763",
+                    "item": "https://www.virustotal.com/api/v3/urls/8e51c11b0552b599412bfdb6d802c8c690dc26d0ef0c6997196afe750fc671c5"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1760535958,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "8e51c11b0552b599412bfdb6d802c8c690dc26d0ef0c6997196afe750fc671c5",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afbf&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044083694|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=csGHPDpqVeJga+eM37XvN+hTKvTdlRX8FSYZGQoXmyw=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7b029%26e%3DcDE9cHJvZmlsZS91bnN1YnNjcmliZT9DVElEPTAmRUNJRD12b0JVZUJrSWhVM0lqWmFoTFR2aDZKbnlPTWtBajJ0WElKZjB5UV9yNEJHV3djTl9qaHNwVVUyckJRbHlYcG5pJks9ZmMxYjY0ODItOGJiNy00NzQyLWI4NmQtOWQ5OGZlYmFjY2IwJkQ9NjM4OTYwODcwNDMzOTAwMTk1JlBJRD0xODEyOSZUSUQ9NDBjNjRjN2EtNmU3MS00NjMzLTk3NDUtZTY4N2EzZmFmZGZhJkNNSUQ9TVNHLU1DTy1zd2EtYXBwc2VydmljZS1ub2Rl%26s%3Dvuzoy222EDolulKFQ5Og8Y5hb66JWR9gMtteBf0FGmA&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044158028%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=O86C4AalUthy3rS%2F2Bk7gDxRjdHibdTcnYPfhRnimLw%3D&reserved=0": {
+            "data": {
+                "id": "u-bf87fffb37985a443725ecccb6256b999cfa217b8354f7ad95c17b1c2221dec3-aeb62f72",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-bf87fffb37985a443725ecccb6256b999cfa217b8354f7ad95c17b1c2221dec3-aeb62f72",
+                    "item": "https://www.virustotal.com/api/v3/urls/bf87fffb37985a443725ecccb6256b999cfa217b8354f7ad95c17b1c2221dec3"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "date": 1760535960,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "bf87fffb37985a443725ecccb6256b999cfa217b8354f7ad95c17b1c2221dec3",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7b029&e=cDE9cHJvZmlsZS91bnN1YnNjcmliZT9DVElEPTAmRUNJRD12b0JVZUJrSWhVM0lqWmFoTFR2aDZKbnlPTWtBajJ0WElKZjB5UV9yNEJHV3djTl9qaHNwVVUyckJRbHlYcG5pJks9ZmMxYjY0ODItOGJiNy00NzQyLWI4NmQtOWQ5OGZlYmFjY2IwJkQ9NjM4OTYwODcwNDMzOTAwMTk1JlBJRD0xODEyOSZUSUQ9NDBjNjRjN2EtNmU3MS00NjMzLTk3NDUtZTY4N2EzZmFmZGZhJkNNSUQ9TVNHLU1DTy1zd2EtYXBwc2VydmljZS1ub2Rl&s=vuzoy222EDolulKFQ5Og8Y5hb66JWR9gMtteBf0FGmA&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044158028|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=O86C4AalUthy3rS/2Bk7gDxRjdHibdTcnYPfhRnimLw=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afbc&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906043999568%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bjxNGL2ty65uSGY323xcqJBV10nez8EFGlzWbK%2FuUDI%3D&reserved=0": {
+            "data": {
+                "id": "u-4e43ddd0e091bdd2f4f695c741a9fb6f1abee3e01911ec0ea2edb0fbbf9ef060-dcf225ce",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-4e43ddd0e091bdd2f4f695c741a9fb6f1abee3e01911ec0ea2edb0fbbf9ef060-dcf225ce",
+                    "item": "https://www.virustotal.com/api/v3/urls/4e43ddd0e091bdd2f4f695c741a9fb6f1abee3e01911ec0ea2edb0fbbf9ef060"
+                },
+                "attributes": {
+                    "date": 1760535961,
+                    "status": "queued",
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    }
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "4e43ddd0e091bdd2f4f695c741a9fb6f1abee3e01911ec0ea2edb0fbbf9ef060",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afbc&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906043999568|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=bjxNGL2ty65uSGY323xcqJBV10nez8EFGlzWbK/uUDI=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afbe&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044054124%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GJh%2FvLd5cO1M%2BxjC1KhwG%2BA%2F9eSVN3BdI7QSXgLvqRQ%3D&reserved=0": {
+            "data": {
+                "id": "u-1f322f894db4803c43155b08cf62410cff4b9a492de91291c9f84ce2aad2d59e-e690a382",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-1f322f894db4803c43155b08cf62410cff4b9a492de91291c9f84ce2aad2d59e-e690a382",
+                    "item": "https://www.virustotal.com/api/v3/urls/1f322f894db4803c43155b08cf62410cff4b9a492de91291c9f84ce2aad2d59e"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "date": 1760535962,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "1f322f894db4803c43155b08cf62410cff4b9a492de91291c9f84ce2aad2d59e",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afbe&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044054124|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=GJh/vLd5cO1M+xjC1KhwG+A/9eSVN3BdI7QSXgLvqRQ=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afbd&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906044028568%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=j7DYCliAYNaujZlPpent88i15m8EbgS%2F50dtfeAa%2BQs%3D&reserved=0": {
+            "data": {
+                "id": "u-ac052677d59e37b501197ed8afa5825d49b5737bfa179b06f65626135dc94d93-1d5f9af0",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-ac052677d59e37b501197ed8afa5825d49b5737bfa179b06f65626135dc94d93-1d5f9af0",
+                    "item": "https://www.virustotal.com/api/v3/urls/ac052677d59e37b501197ed8afa5825d49b5737bfa179b06f65626135dc94d93"
+                },
+                "attributes": {
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1760535963,
+                    "status": "queued",
+                    "results": {}
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "ac052677d59e37b501197ed8afa5825d49b5737bfa179b06f65626135dc94d93",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afbd&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906044028568|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=j7DYCliAYNaujZlPpent88i15m8EbgS/50dtfeAa+Qs=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ft132.msemail.microsoft.com%2Fr%2F%3Fid%3Dhb609e2%2C4b69027%2C4b7afbb%26e%3DcDE9QExNaVVQUUpLdjV6Z1ByMDZlWUhqTmc3X1kwSzVrWkhhOEczYnV1UnRRb0NfQXBzQjc3YkJWVTFMSjVFR3JPX1RMTDlMeGdQVWxYS1g0TE1mNkw2UFdSYTMyeGJZbTVQZjY5QkhVb29kRGM3YnJvWFM%26s%3DX0eGiSVv69il0B0z-W_FaKE226iJ38mr9OIor8ej8ic&data=05%7C02%7Cclaudia.velasquez%40colombiacompra.gov.co%7C9876f775ba5e4dd94a4008de0b8f0387%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638960906043952089%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uGQ0zknIDUHchrCIZXHFusEARuJ%2FsUxVlKyYXVG34eQ%3D&reserved=0": {
+            "data": {
+                "id": "u-ac59709db2d0b1cd5f327768645a1dafee01c28ab95aeaf2fad727a3ca2c05fe-ec40cc96",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-ac59709db2d0b1cd5f327768645a1dafee01c28ab95aeaf2fad727a3ca2c05fe-ec40cc96",
+                    "item": "https://www.virustotal.com/api/v3/urls/ac59709db2d0b1cd5f327768645a1dafee01c28ab95aeaf2fad727a3ca2c05fe"
+                },
+                "attributes": {
+                    "status": "queued",
+                    "results": {},
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "date": 1760535965
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "ac59709db2d0b1cd5f327768645a1dafee01c28ab95aeaf2fad727a3ca2c05fe",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=https://t132.msemail.microsoft.com/r/?id=hb609e2,4b69027,4b7afbb&e=cDE9QExNaVVQUUpLdjV6Z1ByMDZlWUhqTmc3X1kwSzVrWkhhOEczYnV1UnRRb0NfQXBzQjc3YkJWVTFMSjVFR3JPX1RMTDlMeGdQVWxYS1g0TE1mNkw2UFdSYTMyeGJZbTVQZjY5QkhVb29kRGM3YnJvWFM&s=X0eGiSVv69il0B0z-W_FaKE226iJ38mr9OIor8ej8ic&data=05|02|claudia.velasquez@colombiacompra.gov.co|9876f775ba5e4dd94a4008de0b8f0387|7b09041e245149d08cb179d5e3d8c1be|0|0|638960906043952089|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=uGQ0zknIDUHchrCIZXHFusEARuJ/sUxVlKyYXVG34eQ=&reserved=0"
+                }
+            }
+        },
+        "https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcompetencias.sena.edu.co%2Fpage%3F3%2Cplantilla%2Cvalidacion-tecnica-consulta%2CO%2Ces%2C0%2C&data=05%7C02%7Cventanillaunicaderadicacion%40colombiacompra.gov.co%7Cecff31d131394deab02208de09b65cb0%7C7b09041e245149d08cb179d5e3d8c1be%7C0%7C0%7C638958876076196966%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N1J0v4PJdWnlZHsA6VsttvuQShSNUYyrAH%2Bn1Lk4Ha8%3D&reserved=0": {
+            "data": {
+                "id": "u-a11d82d6296807933588423ecb1b18d629d9c502a25e0795cd35c5d919885a29-d9c95f47",
+                "type": "analysis",
+                "links": {
+                    "self": "https://www.virustotal.com/api/v3/analyses/u-a11d82d6296807933588423ecb1b18d629d9c502a25e0795cd35c5d919885a29-d9c95f47",
+                    "item": "https://www.virustotal.com/api/v3/urls/a11d82d6296807933588423ecb1b18d629d9c502a25e0795cd35c5d919885a29"
+                },
+                "attributes": {
+                    "date": 1760536070,
+                    "stats": {
+                        "malicious": 0,
+                        "suspicious": 0,
+                        "undetected": 0,
+                        "harmless": 0,
+                        "timeout": 0
+                    },
+                    "results": {},
+                    "status": "queued"
+                }
+            },
+            "meta": {
+                "url_info": {
+                    "id": "a11d82d6296807933588423ecb1b18d629d9c502a25e0795cd35c5d919885a29",
+                    "url": "https://nam02.safelinks.protection.outlook.com/?url=http://competencias.sena.edu.co/page?3,plantilla,validacion-tecnica-consulta,O,es,0,&data=05|02|ventanillaunicaderadicacion@colombiacompra.gov.co|ecff31d131394deab02208de09b65cb0|7b09041e245149d08cb179d5e3d8c1be|0|0|638958876076196966|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=N1J0v4PJdWnlZHsA6VsttvuQShSNUYyrAH+n1Lk4Ha8=&reserved=0"
+                }
+            }
+        }
+    },
+    "files": {}
+}

@@ -15,7 +15,7 @@ import sys
 from datetime import timedelta, timezone
 
 # ==================== CONFIGURACIÓN ====================
-ENV_PATH = "docs\keys.env"
+ENV_PATH = "docs/keys.env"
 try:
     with open(ENV_PATH, 'r') as f:
         pass  # Solo para verificar que el archivo existe
