@@ -1,3 +1,5 @@
+# Script de PowerShell para leer todas las carpetas y generar un archivo TXT con el listado de archivos y un resumen por extensión.
+
 Add-Type -AssemblyName System.Windows.Forms
 
 # Función para formatear tamaño legible
@@ -44,6 +46,15 @@ if ($folderBrowser.ShowDialog() -eq [System.Windows.Forms.DialogResult]::OK) {
             $readableSize = Format-Size $totalSize
             "{0,-15} Archivos: {1,6}   Tamaño total: {2}" -f $ext, $count, $readableSize
         }
+        # Calcular totales globales
+        $totalFiles = $files.Count
+        $totalBytes = ($files | Measure-Object Length -Sum).Sum
+        $totalReadable = Format-Size $totalBytes
+
+        # Agregar línea final de totales al resumen
+        $summary += ""
+        $summary += "---------------------------------------------"
+        $summary += ("{0,-15} Archivos: {1,6}   Tamaño total: {2}" -f "TOTAL", $totalFiles, $totalReadable)
 
         # Escribir resumen al archivo
         "==== RESUMEN POR EXTENSIÓN ====" | Out-File -Encoding UTF8 $outputFile
