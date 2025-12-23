@@ -1,4 +1,8 @@
-# Guía completa y estable para instalar **GVM / OpenVAS** en **Kali Linux (Rolling)**
+# Guía de Escaneos en OpenVAS
+
+OpenVAS es una herramienta de escaneo de vulnerabilidades muy completa, usada para evaluar la seguridad de sistemas y redes. Esta guía cubre desde escaneos básicos hasta más avanzados.
+
+## Guía completa y estable para instalar **GVM / OpenVAS** en **Kali Linux (Rolling)**
 
 > Esta guía está basada en una instalación **real**, resolviendo problemas comunes de Kali (PostgreSQL, Redis, feeds, sockets y CVE).
 > **Objetivo:** terminar con *Security Information* lleno y CVE visibles, sin errores.
@@ -6,7 +10,7 @@
 ![alt text](image.png)
 ---
 
-## 🧩 Requisitos previos
+### 🧩 Requisitos previos
 
 * Kali Linux **rolling** actualizado
 * Usuario con permisos `sudo`
@@ -15,7 +19,7 @@
 
 ---
 
-## 1️⃣ Actualizar el sistema (OBLIGATORIO)
+### 1️⃣ Actualizar el sistema (OBLIGATORIO)
 
 ```bash
 sudo apt update
@@ -36,7 +40,7 @@ sudo apt --fix-broken install
 
 ---
 
-## 2️⃣ Instalar PostgreSQL 18 (REQUERIDO por GVM 25.x)
+### 2️⃣ Instalar PostgreSQL 18 (REQUERIDO por GVM 25.x)
 
 ```bash
 sudo apt install -y postgresql-18
@@ -49,7 +53,7 @@ sudo apt install -y postgresql-18
 
 ---
 
-## 3️⃣ Crear el cluster de PostgreSQL 18
+### 3️⃣ Crear el cluster de PostgreSQL 18
 
 ```bash
 sudo systemctl stop postgresql
@@ -74,7 +78,7 @@ Debe verse algo como:
 
 ---
 
-## 4️⃣ Mover PostgreSQL 18 al puerto 5432 (CRÍTICO)
+### 4️⃣ Mover PostgreSQL 18 al puerto 5432 (CRÍTICO)
 
 GVM **exige** PostgreSQL 18 en el puerto **5432**.
 
@@ -98,7 +102,7 @@ Debe decir:
 
 ---
 
-## 5️⃣ Eliminar clusters antiguos (si existen)
+### 5️⃣ Eliminar clusters antiguos (si existen)
 
 Si existe PostgreSQL 17:
 
@@ -112,7 +116,7 @@ sudo pg_dropcluster --stop 17 main
 
 ---
 
-## 6️⃣ Instalar GVM
+### 6️⃣ Instalar GVM
 
 ```bash
 sudo apt install -y gvm
@@ -124,7 +128,7 @@ sudo apt install -y gvm
 
 ---
 
-## 7️⃣ Configuración inicial (PASO MÁS IMPORTANTE)
+### 7️⃣ Configuración inicial (PASO MÁS IMPORTANTE)
 
 ```bash
 sudo gvm-setup
@@ -155,7 +159,7 @@ Al final debe aparecer:
 
 ---
 
-## 8️⃣ Activar Redis (AJUSTE NECESARIO EN KALI)
+### 8️⃣ Activar Redis (AJUSTE NECESARIO EN KALI)
 
 ```bash
 sudo systemctl start redis-server
@@ -181,7 +185,7 @@ Active: active (running)
 
 ---
 
-## 9️⃣ Arrancar GVM
+### 9️⃣ Arrancar GVM
 
 ```bash
 sudo gvm-start
@@ -191,7 +195,7 @@ Espera 1–2 minutos.
 
 ---
 
-## 🔟 Verificar instalación
+### 🔟 Verificar instalación
 
 ```bash
 sudo gvm-check-setup
@@ -207,7 +211,7 @@ It seems like your GVM installation is OK.
 
 ---
 
-## 🌐 Acceso a la interfaz web
+### 🌐 Acceso a la interfaz web
 
 En el navegador:
 
@@ -222,7 +226,7 @@ Aceptar el certificado autofirmado.
 
 ---
 
-## ⏳ Primera sincronización de feeds
+### ⏳ Primera sincronización de feeds
 
 Es normal ver:
 
@@ -242,7 +246,7 @@ Cuando termine:
 
 ---
 
-## ✅ Comprobación final (CLAVE)
+### ✅ Comprobación final (CLAVE)
 
 En la web:
 
@@ -254,7 +258,7 @@ En la web:
 
 ---
 
-## 🧠 Notas importantes (experiencia real)
+### 🧠 Notas importantes (experiencia real)
 
 * ❌ No ejecutar `gvmd --rebuild`
 * ❌ No tocar `/run/ospd`
@@ -266,6 +270,63 @@ En la web:
   gvm-stop
   gvm-check-setup
   ```
+
+## Escaneo básico
+
+### Crear un Target
+- Configuration → Targets → New Target
+- Define nombre e IP o rango de IPs
+
+### Crear un Task
+- Scans → Tasks → New Task
+- Scan Config: **Full and fast**
+- Ejecuta el escaneo
+
+### Revisar resultados
+- Scans → Results
+- Analiza severidades y CVEs
+
+---
+
+## Escaneo intermedio / pro
+
+### Configuración avanzada
+- Scan Config: **Full and fast ultimate**
+- Port List: **All TCP and UDP**
+
+### Escaneo autenticado
+- Añade credenciales (SSH / SMB)
+- Permite detección profunda de vulnerabilidades
+
+### Ajustes agresivos
+- Incrementa hosts concurrentes
+- Reduce timeouts
+- ⚠️ Puede afectar redes productivas
+
+---
+
+## Buenas prácticas
+
+- Escanea solo con autorización
+- Evita entornos productivos
+- Exporta reportes (PDF / HTML / CSV)
+
+---
+
+## Comandos útiles
+
+Actualizar feeds:
+```bash
+sudo gvm-feed-update
+```
+
+Comprobar estado:
+```bash
+sudo gvm-check-setup
+```
+
+---
+
 
 ### Sobre sockets
 
@@ -282,5 +343,10 @@ En la web:
 ✔ Instalación estable en Kali Rolling
 
 ---
+
+## Referencias
+
+- https://www.greenbone.net/en/community-edition/
+- https://www.openvas.org
 
 **Fin de la guía.**
