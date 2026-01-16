@@ -12,4 +12,4 @@ foreach ($usuario in $usuarios) {
   Get-ADUser -Identity $usuario -Properties AccountExpirationDate, accountExpires | Format-List SamAccountName, AccountExpirationDate, accountExpires
 }
 
-for /f "delims=" %i in ("C:\Users\jhona\Downloads\lista_archivos_20251229_171843.txt") do mkdir "%i" 
+# for /f "delims=" %i in ("C:\Users\jhona\Downloads\lista_archivos_20251229_171843.txt") do mkdir "%i" 
